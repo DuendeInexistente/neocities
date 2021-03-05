@@ -1,0 +1,240 @@
+@font-face {
+  font-family: '36 days ago BRK';
+  src: url('fonts/36 days ago/36 days ago BRK.eot');
+  src: url('fonts/36 days ago/36 days ago BRK.eot?#iefix') format('embedded-opentype'),
+       url('fonts/36 days ago/36 days ago BRK.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: '36daysagoBRK';
+  src: url('fonts/36 days ago/36daysagoBRK.svg#36daysagoBRK') format('svg'),
+       url('fonts/36 days ago/36daysagoBRK.ttf') format('truetype'),
+       url('fonts/36 days ago/36daysagoBRK.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+body {
+  background-image: url("Background.png");
+  background-color: black;
+  color: #2e0800;
+  font-family: 36daysagoBRK;
+  text-align: center;
+  z-index: 100;
+  position:relative;
+}
+
+.titleframe {
+  font-family: "36daysagoBRK";
+  width: 30%;
+  height: auto;
+//  background-color: #f8f8c8;
+  color: #2e0800;
+  margin: auto;
+  border: 1vw solid transparent;
+  border-image: url(frame.png) round;
+  border-image-slice: 30% fill;
+  font-weight: bold;
+  font-size:5vw;
+  font-variant: small-caps;
+  position:relative;
+
+}
+
+.smallframeleft {
+    width: 30%;
+    height: auto;
+    color: #2e0800;
+    margin: auto;
+    border: 6pt solid transparent;
+    border-image: url(frame.png) round;
+    border-image-slice: 30% fill;
+    font-size: 9pt;
+    position: absolute;
+    top: 0.2%;
+    left: 2%;
+    z-index: 10;
+    text-align: left;
+    position:absolute;
+}
+.smallframeright {
+    width: 30%;
+    height: auto;
+    color: #2e0800;
+    margin: auto;
+    border: 6pt solid transparent;
+    border-image: url(frame.png) round;
+    border-image-slice: 30% fill;
+    font-size: 9pt;
+    position: absolute;
+    top: 0.2%;
+    right: 2%;
+    z-index: 10;
+    text-align: left;
+    position:absolute;
+ }
+
+
+
+.frame {
+    width: 70%;
+    height: auto;
+//    background-color: #f8f8c8;
+    margin: auto;
+    border: 8pt solid transparent;
+    border-image: url(frame.png) round;
+    border-image-slice: 30% fill;
+    font-size: 11pt;
+    z-index: 100;
+    position:relative;
+}
+
+.smallframe { width: 10% ; float: left; }
+
+.nsfw {
+  -webkit-filter: blur(15px); /* Safari 6.0 - 9.0 */
+  filter: blur(15px);
+}
+.nsfw:hover {
+  -webkit-filter: blur(0px); /* Safari 6.0 - 9.0 */
+  filter: blur(0px);
+}
+
+
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 400px;
+    height:300pt
+    z-index: 100;
+    position:relative;
+
+}
+div.gallery_item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 90%;
+    height:300pt
+    z-index: 100;
+    position:relative;
+    border-image: url(framecp.png) round;
+}
+
+.gllimg {
+    min-width: 95%;
+ //   height: 100px;
+ //   background-color: grey;
+    border: 8pt solid transparent;
+    border-image: url(frame.png) round;
+    border-image-slice: 30% fill;
+    display: block;
+    min-height: 350px;
+    margin:auto;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+    z-index: 100;
+    position:relative;
+}
+
+
+.caption {
+    border: 8pt solid transparent;
+    border-image: url(framecp2.png) round;
+    border-image-slice: 30% fill;
+//    color: #071821;
+    display: block;
+    z-index: 100;
+    position:relative;
+    text-align:justify;
+}
+
+
+
+
+img{
+max-width:270pt
+}
+
+.pixels{ 
+image-rendering: pixelated;
+image-rendering: crisp-edges;
+
+}
+
+.scale400{
+width: 64pt;
+}
+
+.leftframe {
+    width: 5%;
+    height: 150%;
+    color: #2e0800;
+    border: 6pt solid transparent;
+    border-image: url(framebg.png) round;
+    border-image-slice: 30% fill;
+    font-size: 9pt;
+    position: fixed;
+    top: -40%;
+    left: 2%;
+    z-index: 5;
+    text-align: left;
+}
+.rightframe {
+    width: 5%;
+    height: 150%;
+    color: #2e0800;
+    margin: auto;
+    border: 6pt solid transparent;
+    border-image: url(framebg.png) round;
+    border-image-slice: 30% fill;
+    font-size: 9pt;
+    position: fixed;
+    top: -40%;
+    right: 2%;
+    z-index: 5;
+    text-align: right;
+
+}
+
+.scrlimg {
+max-width:90%;
+opacity: 0.4;
+}
+
+
+
+
+.green {
+    border-image: url(framecp.png) round;
+    border-image-slice: 30% fill;
+    display: block;
+}
+
+.silver {
+    border-image: url(framesv.png) round;
+    border-image-slice: 30% fill;
+    display: block;
+}
+
+.bg {
+    border-image: url(framebg.png) round;
+    border-image-slice: 30% fill;
+    display: block;
+    color: #e6aca0;
+    min-height: fit-content;
+    align-content: center;
+    width: fit-content;
+}
+
+.grid {
+  display: grid !important;
+  grid-template-columns: repeat(7, 3fr);
+  gap: 10px;
+  grid-auto-rows: auto;
+}
