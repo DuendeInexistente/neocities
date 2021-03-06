@@ -30,6 +30,19 @@ display: inline-block;
 
 
 <div class="gallery_item silver" >
+<div class="gllimg silver taller grid">
+<div class="frame smallframe bg"><img src="16-16-star-dancer.gif"><br><img class="pixels scale400" src="16-16-star-dancer.gif"><br>The best</div>
+
+
+<div class="frame smallframe bg"><img src="16-16-star-meno-amare.gif"><br><img class="pixels scale400" src="16-16-star-meno-amare.gif"><br>Also the best</div>
+
+</div>
+</div>
+
+
+
+
+<div class="gallery_item silver" >
     <span class="caption green">Canon characters</span>
 <div class="gllimg silver taller grid">
 <script src="canon.js"></script>
@@ -38,7 +51,7 @@ display: inline-block;
 
 
 
-<div class="gallery_item silver" >
+<!--<div class="gallery_item silver" >
     <span class="caption green">Hall of the most canon</span>
 <div class="gllimg silver taller grid">
 
@@ -47,8 +60,27 @@ display: inline-block;
 </div>
 </div>
 
+-->
 
 
+<div class="gallery_item silver" >
+    <span class="caption green">MLP Tales</span>
+<div class="gllimg silver taller grid">
+
+<script src="MLPTales.js"></script>
+
+</div>
+</div>
+
+
+<div class="gallery_item silver" >
+    <span class="caption green">G5</span>
+<div class="gllimg silver taller grid">
+
+<script src="G5.js"></script>
+
+</div>
+</div>
 
 <div class="gallery_item silver" >
     <span class="caption green">TFH</span>
@@ -81,7 +113,7 @@ display: inline-block;
     <span class="caption green">misc</span>
 <div class="gllimg silver taller grid">
 
-<script src="misc.js"></script>
+<script src="misc.js"></script><br>
 <script src="misc-cutie-marks.js"></script>
 <script src="misc-flags.js"></script>
 
@@ -111,7 +143,7 @@ display: inline-block;
 
 <!-- Generator command
 
-
+local suma=0
 local thecutest=canon
 rm $thecutest.html
 
@@ -125,16 +157,18 @@ local whosasillypony=${whosasillypony/-/\ }
 local whosasillypony=${whosasillypony/.gif/}
 
 echo \<div class=\"frame smallframe bg\"\> >>$thecutest.html
-echo \<img src=\"$file\"\>\<br\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >>$thecutest.html
+echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >>$thecutest.html
 echo \<br\> ${(C)whosasillypony} >> $thecutest.html
 echo \<\/div\> >> $thecutest.html
-
+let "suma+=1"
 done
+
+echo \<br\> Total count: $suma >>$thecutest.html 
 ./convert.sh $thecutest.html
 rm $thecutest.html
 
 echo -------------------------------------------------
-
+local suma=0
 local thecutest=TFH
 rm $thecutest.html
 
@@ -150,13 +184,39 @@ echo \<div class=\"frame smallframe bg\"\> >> $thecutest.html
 echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutest.html
 echo \<br\> ${(C)whosasillypony} >> $thecutest.html
 echo \<\/div\> >> $thecutest.html
-
+let "suma+=1"
 done
+
+echo \<br\> Total count: $suma >>$thecutest.html 
 ./convert.sh $thecutest.html
 rm $thecutest.html
 
 echo -------------------------------------------------
+local suma=0
+local thecutest=MLPTales
+rm $thecutest.html
 
+for file in 16-16-ponies/$thecutest/*.gif;do
+
+local whosasillypony=$file
+
+local whosasillypony=${whosasillypony/16-16-ponies\/$thecutest\/16-16-/}
+local whosasillypony=${whosasillypony/-/\ }
+local whosasillypony=${whosasillypony/.gif/}
+
+echo \<div class=\"frame smallframe bg\"\> >> $thecutest.html
+echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutest.html
+echo \<br\> ${(C)whosasillypony} >> $thecutest.html
+echo \<\/div\> >> $thecutest.html
+let "suma+=1"
+done
+
+echo \<br\> Total count: $suma >>$thecutest.html 
+./convert.sh $thecutest.html
+rm $thecutest.html
+
+echo -------------------------------------------------
+local suma=0
 local thecutest=EqG
 rm $thecutest.html
 
@@ -172,13 +232,15 @@ echo \<div class=\"frame smallframe bg\"\> >> $thecutest.html
 echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutest.html
 echo \<br\> ${(C)whosasillypony} >> $thecutest.html
 echo \<\/div\> >> $thecutest.html
-
+let "suma+=1"
 done
+
+echo \<br\> Total count: $suma >>$thecutest.html 
 ./convert.sh $thecutest.html
 rm $thecutest.html
 
 echo -------------------------------------------------
-
+local suma=0
 local thecutest=OCs
 rm $thecutest.html
 
@@ -194,13 +256,15 @@ echo \<div class=\"frame smallframe bg\"\> >> $thecutest.html
 echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutest.html
 echo \<br\> ${(C)whosasillypony} >> $thecutest.html
 echo \<\/div\> >> $thecutest.html
-
+let "suma+=1"
 done
+
+echo \<br\> Total count: $suma >>$thecutest.html 
 ./convert.sh $thecutest.html
 rm $thecutest.html
 
 echo -------------------------------------------------
-
+local suma=0
 local thecutest=G5
 rm $thecutest.html
 
@@ -216,15 +280,17 @@ echo \<div class=\"frame smallframe bg\"\> >> $thecutest.html
 echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutest.html
 echo \<br\> ${(C)whosasillypony} >> $thecutest.html
 echo \<\/div\> >> $thecutest.html
-
+let "suma+=1"
 done
+
+echo \<br\> Total count: $suma >>$thecutest.html 
 ./convert.sh $thecutest.html
 rm $thecutest.html
 
 
 
 echo -------------------------------------------------
-
+local suma=0
 local thecutest=misc
 rm $thecutest.html
 
@@ -242,38 +308,14 @@ echo \<div class=\"frame smallframe bg\"\> >> $thecutest.html
 echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutest.html
 echo \<br\> ${(C)whosasillypony} >> $thecutest.html
 echo \<\/div\> >> $thecutest.html
-
+let "suma+=1"
 done
+
+echo \<br\> Total count: $suma >>$thecutest.html 
 ./convert.sh $thecutest.html
 rm $thecutest.html
-
 echo -------------------------------------------------
-
-local thecutest=misc/G5
-local thecutesafefilename=${thecutest/\//\-}
-rm $thecutest.html
-
-for file in 16-16-ponies/$thecutest/*.gif;do
-
-local whosasillypony=$file
-
-local whosasillypony=${whosasillypony/16-16-ponies/}
-local whosasillypony=${whosasillypony/\/misc\//}
-local whosasillypony=${whosasillypony/-/\ }
-local whosasillypony=${whosasillypony/.gif/}
-
-echo \<div class=\"frame smallframe bg\"\> >> $thecutesafefilename.html
-echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutesafefilename.html
-echo \<br\> ${(C)whosasillypony} >> $thecutesafefilename.html
-echo \<\/div\> >> $thecutesafefilename.html
-
-done
-./convert.sh $thecutesafefilename.html
-rm $thecutesafefilename.html
-
-
-echo -------------------------------------------------
-
+local suma=0
 local thecutest=misc/cutie-marks
 local thecutesafefilename=${thecutest/\//\-}
 rm $thecutest.html
@@ -291,14 +333,16 @@ echo \<div class=\"frame smallframe bg\"\> >> $thecutesafefilename.html
 echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutesafefilename.html
 echo \<br\> ${(C)whosasillypony} >> $thecutesafefilename.html
 echo \<\/div\> >> $thecutesafefilename.html
-
+let "suma+=1"
 done
+
+echo \<br\> Total count: $suma >>$thecutesafefilename.html
 ./convert.sh $thecutesafefilename.html
 rm $thecutesafefilename.html
 
 
 echo -------------------------------------------------
-
+local suma=0
 local thecutest=misc/flags
 local thecutesafefilename=${thecutest/\//-}
 rm $thecutesafefilenam.html
@@ -316,32 +360,10 @@ echo \<div class=\"frame smallframe bg\"\> >> $thecutesafefilename.html
 echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutesafefilename.html
 echo \<br\> ${(C)whosasillypony} >> $thecutesafefilename.html
 echo \<\/div\> >>$thecutesafefilename.html
-
+let "suma+=1"
 done
+
+echo \<br\> Total count: $suma >>$thecutesafefilename.html
 ./convert.sh $thecutesafefilename.html
 rm $thecutesafefilename.html
 
-
-
-
-echo -------------------------------------------------
-
-local thecutest=Hall
-rm $thecutest.html
-
-for file in 16-16-ponies/$thecutest/*.gif;do
-
-local whosasillypony=$file
-
-local whosasillypony=${whosasillypony/16-16-ponies\/$thecutest\/16-16-/}
-local whosasillypony=${whosasillypony/-/\ }
-local whosasillypony=${whosasillypony/.gif/}
-
-echo \<div class=\"frame smallframe bg\"\> >> $thecutest.html
-echo \<img src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutest.html
-echo \<br\> ${(C)whosasillypony} >> $thecutest.html
-echo \<\/div\> >> $thecutest.html
-
-done
-./convert.sh $thecutest.html
-rm $thecutest.html

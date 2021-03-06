@@ -4,12 +4,32 @@ document.write('\
 <br> Adagio Dazzle\
 </div>\
 <div class="frame smallframe bg">\
+<img src="16-16-ponies/EqG/16-16-adagio-dazzle-pony.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-adagio-dazzle-pony.gif">\
+<br> Adagio Dazzle-Pony\
+</div>\
+<div class="frame smallframe bg">\
+<img src="16-16-ponies/EqG/16-16-adagio-dazzle-siren.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-adagio-dazzle-siren.gif">\
+<br> Adagio Dazzle-Siren\
+</div>\
+<div class="frame smallframe bg">\
+<img src="16-16-ponies/EqG/16-16-adagio-dazzle-unicorn.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-adagio-dazzle-unicorn.gif">\
+<br> Adagio Dazzle-Unicorn\
+</div>\
+<div class="frame smallframe bg">\
 <img src="16-16-ponies/EqG/16-16-applejack.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-applejack.gif">\
 <br> Applejack\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/EqG/16-16-aria-blaze.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-aria-blaze.gif">\
 <br> Aria Blaze\
+</div>\
+<div class="frame smallframe bg">\
+<img src="16-16-ponies/EqG/16-16-aria-blaze-pony.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-aria-blaze-pony.gif">\
+<br> Aria Blaze-Pony\
+</div>\
+<div class="frame smallframe bg">\
+<img src="16-16-ponies/EqG/16-16-aria-blaze-siren.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-aria-blaze-siren.gif">\
+<br> Aria Blaze-Siren\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/EqG/16-16-flash-sentry.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-flash-sentry.gif">\
@@ -52,6 +72,14 @@ document.write('\
 <br> Sonata Dusk\
 </div>\
 <div class="frame smallframe bg">\
+<img src="16-16-ponies/EqG/16-16-sonata-dusk-pony.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-sonata-dusk-pony.gif">\
+<br> Sonata Dusk-Pony\
+</div>\
+<div class="frame smallframe bg">\
+<img src="16-16-ponies/EqG/16-16-sonata-dusk-siren.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-sonata-dusk-siren.gif">\
+<br> Sonata Dusk-Siren\
+</div>\
+<div class="frame smallframe bg">\
 <img src="16-16-ponies/EqG/16-16-sour-sweet.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-sour-sweet.gif">\
 <br> Sour Sweet\
 </div>\
@@ -80,6 +108,10 @@ document.write('\
 <br> Sunset Shimmer\
 </div>\
 <div class="frame smallframe bg">\
+<img src="16-16-ponies/EqG/16-16-sunset-shimmer-pony.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-sunset-shimmer-pony.gif">\
+<br> Sunset Shimmer-Pony\
+</div>\
+<div class="frame smallframe bg">\
 <img src="16-16-ponies/EqG/16-16-trixie-blyat.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-trixie-blyat.gif">\
 <br> Trixie Blyat\
 </div>\
@@ -95,4 +127,5 @@ document.write('\
 <img src="16-16-ponies/EqG/16-16-wallflower-blush.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-wallflower-blush.gif">\
 <br> Wallflower Blush\
 </div>\
+<br> Total count: 32\
 ');

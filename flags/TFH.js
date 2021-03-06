@@ -27,4 +27,5 @@ document.write('\
 <img src="16-16-ponies/TFH/16-16-velvet.gif"><br><img class="pixels scale400" src="16-16-ponies/TFH/16-16-velvet.gif">\
 <br> Velvet\
 </div>\
+<br> Total count: 7\
 ');

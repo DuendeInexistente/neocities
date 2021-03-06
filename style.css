@@ -133,7 +133,7 @@ div.gallery_item {
     border-image: url(frame.png) round;
     border-image-slice: 30% fill;
     display: block;
-    min-height: 350px;
+ //   min-height: 350px;
     margin:auto;
   display: flex;
   justify-content: center;
@@ -169,6 +169,8 @@ image-rendering: crisp-edges;
 
 .scale400{
 width: 64pt;
+image-rendering: pixelated;
+image-rendering: crisp-edges;
 }
 
 .leftframe {
@@ -229,12 +231,16 @@ opacity: 0.4;
     color: #e6aca0;
     min-height: fit-content;
     align-content: center;
+//Fucking firefox
     width: fit-content;
+    width: -moz-min-content;
+    width: -webkit-min-content;
+
 }
 
 .grid {
   display: grid !important;
-  grid-template-columns: repeat(7, 3fr);
-  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 1px;
   grid-auto-rows: auto;
 }

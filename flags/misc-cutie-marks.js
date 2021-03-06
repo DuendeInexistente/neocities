@@ -119,4 +119,5 @@ document.write('\
 <img src="16-16-ponies/misc/cutie-marks/Zecora.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Zecora.gif">\
 <br> Cutie Marks/Zecora\
 </div>\
+<br> Total count: 30\
 ');

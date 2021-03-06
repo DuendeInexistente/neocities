@@ -4,12 +4,20 @@ document.write('\
 <br> Anonfilly\
 </div>\
 <div class="frame smallframe bg">\
+<img src="16-16-ponies/OCs/16-16-anon.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-anon.gif">\
+<br> Anon\
+</div>\
+<div class="frame smallframe bg">\
 <img src="16-16-ponies/OCs/16-16-aryanne.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-aryanne.gif">\
 <br> Aryanne\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/OCs/16-16-cream-heart.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-cream-heart.gif">\
 <br> Cream Heart\
+</div>\
+<div class="frame smallframe bg">\
+<img src="16-16-ponies/OCs/16-16-fausticorn.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-fausticorn.gif">\
+<br> Fausticorn\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/OCs/16-16-karma.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-karma.gif">\
@@ -51,4 +59,5 @@ document.write('\
 <img src="16-16-ponies/OCs/16-16-verity.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-verity.gif">\
 <br> Verity\
 </div>\
+<br> Total count: 15\
 ');
