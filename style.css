@@ -229,7 +229,7 @@ opacity: 0.4;
     border-image-slice: 30% fill;
     display: block;
     color: #e6aca0;
-    min-height: fit-content;
+    min-height: 110pt;
     align-content: center;
 //Fucking firefox
     width: fit-content;

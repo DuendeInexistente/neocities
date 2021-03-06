@@ -392,6 +392,10 @@ document.write('\
 <br>  Cheese Sandwich\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Daybreaker.gif"><br><img class="pixels scale400" src="16-16-ponies/Daybreaker.gif">\
+<br>  Daybreaker\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Fancy pants.gif"><br><img class="pixels scale400" src="16-16-ponies/Fancy pants.gif">\
 <br>  Fancy Pants\
 </div>\
@@ -408,8 +412,24 @@ document.write('\
 <br>  Fleur De Lis\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Granny Smith.gif"><br><img class="pixels scale400" src="16-16-ponies/Granny Smith.gif">\
+<br>  Granny Smith\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Granny Smith (Young).gif"><br><img class="pixels scale400" src="16-16-ponies/Granny Smith (Young).gif">\
+<br>  Granny Smith (Young)\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/lightning dust.gif"><br><img class="pixels scale400" src="16-16-ponies/lightning dust.gif">\
 <br>  Lightning Dust\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Nightmare Moon (Alpha).gif"><br><img class="pixels scale400" src="16-16-ponies/Nightmare Moon (Alpha).gif">\
+<br>  Nightmare Moon (Alpha)\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Nightmare Moon.gif"><br><img class="pixels scale400" src="16-16-ponies/Nightmare Moon.gif">\
+<br>  Nightmare Moon\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Ocellus (Pony).gif"><br><img class="pixels scale400" src="16-16-ponies/Ocellus (Pony).gif">\
@@ -447,5 +467,5 @@ document.write('\
 <img class="pixels" src="16-16-ponies/Yonna (Pony).gif"><br><img class="pixels scale400" src="16-16-ponies/Yonna (Pony).gif">\
 <br>  Yonna (Pony)\
 </div>\
-<br> Total count: 112\
+<br> Total count: 117\
 ');
