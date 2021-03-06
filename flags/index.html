@@ -26,6 +26,7 @@ display: inline-block;
 
     <div class="frame" width=90%>
 <img src=tenor.gif><br>
+<script src="Download.js"></script>
     </div><br>
 
 
@@ -155,8 +156,8 @@ local whosasillypony=$file
 local whosasillypony=${whosasillypony/16/}
 local whosasillypony=${whosasillypony/ponies/}
 local whosasillypony=${whosasillypony/\//}
-local whosasillypony=${whosasillypony/-/ }
-local whosasillypony=${whosasillypony/  / }
+local whosasillypony=${whosasillypony/-/\ }
+local whosasillypony=${whosasillypony/\ \ /\ }
 local whosasillypony=${whosasillypony/.gif/}
 
 echo \<div class=\"frame smallframe bg\"\> >>$thecutest.html

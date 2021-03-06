@@ -1,5 +1,7 @@
 #!/bin/zsh
 
+./download.sh
+
 local suma=0
 local thecutest=canon
 rm $thecutest.html
