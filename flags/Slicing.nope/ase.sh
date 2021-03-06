@@ -6,6 +6,6 @@ done
 
 for file in *.png; do
 local filenopng=${file/\.png/}
-convert $file -resize 16x16 -background none -gravity center -extent 16x16  $filenopng.gif
+convert $file -background none -gravity center -extent 16x16  $filenopng.gif
 rm $file
 done
