@@ -392,6 +392,10 @@ document.write('\
 <br>  Fleetfoot (Suit)\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/lightning dust.gif"><br><img class="pixels scale400" src="16-16-ponies/lightning dust.gif">\
+<br>  Lightning Dust\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Princess Erroria.gif"><br><img class="pixels scale400" src="16-16-ponies/Princess Erroria.gif">\
 <br>  Princess Erroria\
 </div>\
@@ -411,5 +415,5 @@ document.write('\
 <img class="pixels" src="16-16-ponies/Spitfire (Suit).gif"><br><img class="pixels scale400" src="16-16-ponies/Spitfire (Suit).gif">\
 <br>  Spitfire (Suit)\
 </div>\
-<br> Total count: 103\
+<br> Total count: 104\
 ');

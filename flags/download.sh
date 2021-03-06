@@ -5,3 +5,4 @@ base64 1.7z >> Download.html
 echo \"\>Download folder\<\/a\> >>Download.html
 ./convert.sh Download.html
 rm Download.html
+rm 1.7z
