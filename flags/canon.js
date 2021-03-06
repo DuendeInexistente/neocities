@@ -388,6 +388,10 @@ document.write('\
 <br>  Babs Seed\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Big Brian.gif"><br><img class="pixels scale400" src="16-16-ponies/Big Brian.gif">\
+<br>  Big Brian\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Cheese sandwich.gif"><br><img class="pixels scale400" src="16-16-ponies/Cheese sandwich.gif">\
 <br>  Cheese Sandwich\
 </div>\
@@ -467,5 +471,5 @@ document.write('\
 <img class="pixels" src="16-16-ponies/Yonna (Pony).gif"><br><img class="pixels scale400" src="16-16-ponies/Yonna (Pony).gif">\
 <br>  Yonna (Pony)\
 </div>\
-<br> Total count: 117\
+<br> Total count: 118\
 ');
