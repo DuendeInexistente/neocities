@@ -384,6 +384,18 @@ document.write('\
 <br>  Angel Wings\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Babs Seed.gif"><br><img class="pixels scale400" src="16-16-ponies/Babs Seed.gif">\
+<br>  Babs Seed\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Cheese sandwich.gif"><br><img class="pixels scale400" src="16-16-ponies/Cheese sandwich.gif">\
+<br>  Cheese Sandwich\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Fancy pants.gif"><br><img class="pixels scale400" src="16-16-ponies/Fancy pants.gif">\
+<br>  Fancy Pants\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Fleetfoot.gif"><br><img class="pixels scale400" src="16-16-ponies/Fleetfoot.gif">\
 <br>  Fleetfoot\
 </div>\
@@ -392,12 +404,28 @@ document.write('\
 <br>  Fleetfoot (Suit)\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Fleur de lis.gif"><br><img class="pixels scale400" src="16-16-ponies/Fleur de lis.gif">\
+<br>  Fleur De Lis\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/lightning dust.gif"><br><img class="pixels scale400" src="16-16-ponies/lightning dust.gif">\
 <br>  Lightning Dust\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Ocellus (Pony).gif"><br><img class="pixels scale400" src="16-16-ponies/Ocellus (Pony).gif">\
+<br>  Ocellus (Pony)\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Pacific Glow.gif"><br><img class="pixels scale400" src="16-16-ponies/Pacific Glow.gif">\
+<br>  Pacific Glow\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Princess Erroria.gif"><br><img class="pixels scale400" src="16-16-ponies/Princess Erroria.gif">\
 <br>  Princess Erroria\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Silverstream.gif"><br><img class="pixels scale400" src="16-16-ponies/Silverstream.gif">\
+<br>  Silverstream\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Soarin.gif"><br><img class="pixels scale400" src="16-16-ponies/Soarin.gif">\
@@ -415,5 +443,9 @@ document.write('\
 <img class="pixels" src="16-16-ponies/Spitfire (Suit).gif"><br><img class="pixels scale400" src="16-16-ponies/Spitfire (Suit).gif">\
 <br>  Spitfire (Suit)\
 </div>\
-<br> Total count: 104\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Yonna (Pony).gif"><br><img class="pixels scale400" src="16-16-ponies/Yonna (Pony).gif">\
+<br>  Yonna (Pony)\
+</div>\
+<br> Total count: 112\
 ');
