@@ -244,3 +244,10 @@ opacity: 0.4;
   gap: 1px;
   grid-auto-rows: auto;
 }
+
+.normal {float:left;
+font-size:10pt;
+font: initial !important;}
+
+.goleft {text-align: right;
+}

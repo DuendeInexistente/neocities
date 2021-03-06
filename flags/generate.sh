@@ -345,7 +345,7 @@ rm $thecutesafefilename.html
 let "sumatotal+=suma"
 echo $sumatotal
 
-echo \<b\>Total flags:\</b\>\<div class=\"titleframe\"\>$sumatotal \<img src=atlasfull.png\>\<\/div\> > grandtotal.html
+echo \<div class=\"titleframe\"\>$sumatotal \<br\>\<img src=atlasfull.png\>\<\/div\> > grandtotal.html
 ./convert.sh grandtotal.html
 rm grandtotal.html
 mv 16-16-ponies/16-16-tenor.gif 16-16-ponies/16-16-tenor.gif.no
