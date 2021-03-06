@@ -1,87 +1,87 @@
 document.write('\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/appleloosa.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/appleloosa.gif">\
-<br>  Fappleloosa\
+<br>  F/Appleloosa\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/Canterlot.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/Canterlot.gif">\
-<br>  Fcanterlot\
+<br>  F/Canterlot\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/cloudsdale.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/cloudsdale.gif">\
-<br>  Fcloudsdale\
+<br>  F/Cloudsdale\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/crystal kingdom.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/crystal kingdom.gif">\
-<br>  Fcrystal Kingdom\
+<br>  F/Crystal Kingdom\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/cutie mark crusaders 2.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/cutie mark crusaders 2.gif">\
-<br>  Fcutie Mark Crusaders 2\
+<br>  F/Cutie Mark Crusaders 2\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/cutie mark crusaders.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/cutie mark crusaders.gif">\
-<br>  Fcutie Mark Crusaders\
+<br>  F/Cutie Mark Crusaders\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/cutie mark crusaders square.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/cutie mark crusaders square.gif">\
-<br>  Fcutie Mark Crusaders Square\
+<br>  F/Cutie Mark Crusaders Square\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/Dazzling.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/Dazzling.gif">\
-<br>  Fdazzling\
+<br>  F/Dazzling\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/equestria.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/equestria.gif">\
-<br>  Fequestria\
+<br>  F/Equestria\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/griffins.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/griffins.gif">\
-<br>  Fgriffins\
+<br>  F/Griffins\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/ponyville.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/ponyville.gif">\
-<br>  Fponyville\
+<br>  F/Ponyville\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/TFH.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/TFH.gif">\
-<br>  Ftfh\
+<br>  F/Tfh\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/Wonderbolts Flag.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/Wonderbolts Flag.gif">\
-<br>  Fwonderbolts Flag\
+<br>  F/Wonderbolts Flag\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/bigones/appleloosa big.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/bigones/appleloosa big.gif">\
-<br>  Fappleloosa Big\
+<br>  F/Appleloosa Big\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/bigones/cloudsdale big.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/bigones/cloudsdale big.gif">\
-<br>  Fcloudsdale Big\
+<br>  F/Cloudsdale Big\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/bigones/crystal kingdom big.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/bigones/crystal kingdom big.gif">\
-<br>  Fcrystal Kingdom Big\
+<br>  F/Crystal Kingdom Big\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/bigones/cutie mark crusaders 2 big.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/bigones/cutie mark crusaders 2 big.gif">\
-<br>  Fcutie Mark Crusaders 2 Big\
+<br>  F/Cutie Mark Crusaders 2 Big\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/bigones/cutie mark crusaders big.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/bigones/cutie mark crusaders big.gif">\
-<br>  Fcutie Mark Crusaders Big\
+<br>  F/Cutie Mark Crusaders Big\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/bigones/equestria big.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/bigones/equestria big.gif">\
-<br>  Fequestria Big\
+<br>  F/Equestria Big\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/bigones/griffons big.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/bigones/griffons big.gif">\
-<br>  Fgriffons Big\
+<br>  F/Griffons Big\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/bigones/ponyville big.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/bigones/ponyville big.gif">\
-<br>  Fponyville Big\
+<br>  F/Ponyville Big\
 </div>\
 <br> Total count: 21\
 ');

@@ -245,7 +245,7 @@ opacity: 0.4;
   grid-auto-rows: auto;
 }
 
-.normal {float:left;
+.normal {
 font-size:10pt;
 font: initial !important;}
 

@@ -264,7 +264,6 @@ for file in 16-16-ponies/$thecutest/*.gif;do
 
 local whosasillypony=$file
 
-repeat 10 local whosasillypony=${whosasillypony/cutie marks/CM}
 repeat 10 local whosasillypony=${whosasillypony/16-/}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
@@ -272,6 +271,7 @@ repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
 repeat 10 local whosasillypony=${whosasillypony/-/\ }
 repeat 10 local whosasillypony=${whosasillypony/misc/\ }
 repeat 10 local whosasillypony=${whosasillypony/\ \ /\ }
+repeat 10 local whosasillypony=${whosasillypony/cutie marks/CM\/}
 repeat 10 local whosasillypony=${whosasillypony/.gif/}
 
 echo \<div class=\"frame smallframe bg\"\> >> $thecutesafefilename.html
@@ -298,7 +298,6 @@ for file in 16-16-ponies/$thecutest/*.gif;do
 
 local whosasillypony=$file
 
-repeat 10 local whosasillypony=${whosasillypony/flags/F}
 repeat 10 local whosasillypony=${whosasillypony/16-/}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
@@ -306,6 +305,7 @@ repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
 repeat 10 local whosasillypony=${whosasillypony/-/\ }
 repeat 10 local whosasillypony=${whosasillypony/misc/\ }
 repeat 10 local whosasillypony=${whosasillypony/\ \ /\ }
+repeat 10 local whosasillypony=${whosasillypony/flags/F\/}
 repeat 10 local whosasillypony=${whosasillypony/.gif/}
 
 echo \<div class=\"frame smallframe bg\"\> >> $thecutesafefilename.html
@@ -319,7 +319,6 @@ for file in 16-16-ponies/$thecutest/bigones/*.gif;do
 
 local whosasillypony=$file
 
-repeat 10 local whosasillypony=${whosasillypony/flags/F}
 repeat 10 local whosasillypony=${whosasillypony/16-/}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/bigones/}
@@ -328,6 +327,7 @@ repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
 repeat 10 local whosasillypony=${whosasillypony/-/\ }
 repeat 10 local whosasillypony=${whosasillypony/misc/\ }
 repeat 10 local whosasillypony=${whosasillypony/\ \ /\ }
+repeat 10 local whosasillypony=${whosasillypony/flags/F\/}
 repeat 10 local whosasillypony=${whosasillypony/.gif/}
 
 echo \<div class=\"frame smallframe bg\"\> >> $thecutesafefilename.html
@@ -345,7 +345,7 @@ rm $thecutesafefilename.html
 let "sumatotal+=suma"
 echo $sumatotal
 
-echo \<div class=\"titleframe\"\>$sumatotal \<br\>\<img src=atlasfull.png\>\<\/div\> > grandtotal.html
+echo \<div class=\"titleframe\"\>$sumatotal\<br\>\<div class=\"normal\"\>total flags\<\/div\>\<img src=atlasfull.png\>\<\/div\> > grandtotal.html
 ./convert.sh grandtotal.html
 rm grandtotal.html
 mv 16-16-ponies/16-16-tenor.gif 16-16-ponies/16-16-tenor.gif.no
