@@ -12,6 +12,10 @@ document.write('\
 <br> Aryanne\
 </div>\
 <div class="frame smallframe bg">\
+<img src="16-16-ponies/OCs/16-16-barneyflag.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-barneyflag.gif">\
+<br> Barneyflag\
+</div>\
+<div class="frame smallframe bg">\
 <img src="16-16-ponies/OCs/16-16-cream-heart.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-cream-heart.gif">\
 <br> Cream Heart\
 </div>\
@@ -59,5 +63,5 @@ document.write('\
 <img src="16-16-ponies/OCs/16-16-verity.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-verity.gif">\
 <br> Verity\
 </div>\
-<br> Total count: 15\
+<br> Total count: 16\
 ');

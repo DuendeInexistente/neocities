@@ -1,123 +1,123 @@
 document.write('\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Anonfilly.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Anonfilly.gif">\
-<br> Cutie Marks/Anonfilly\
+<br> Cm/Anonfilly\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Applejack.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Applejack.gif">\
-<br> Cutie Marks/Applejack\
+<br> Cm/Applejack\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Big Macintosh.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Big Macintosh.gif">\
-<br> Cutie Marks/Big Macintosh\
+<br> Cm/Big Macintosh\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Bonbon.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Bonbon.gif">\
-<br> Cutie Marks/Bonbon\
+<br> Cm/Bonbon\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Bundle Joy.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Bundle Joy.gif">\
-<br> Cutie Marks/Bundle Joy\
+<br> Cm/Bundle Joy\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Cadence.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Cadence.gif">\
-<br> Cutie Marks/Cadence\
+<br> Cm/Cadence\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Celestia.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Celestia.gif">\
-<br> Cutie Marks/Celestia\
+<br> Cm/Celestia\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Changeling.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Changeling.gif">\
-<br> Cutie Marks/Changeling\
+<br> Cm/Changeling\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Cherry Berry.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Cherry Berry.gif">\
-<br> Cutie Marks/Cherry Berry\
+<br> Cm/Cherry Berry\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Clear Skies.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Clear Skies.gif">\
-<br> Cutie Marks/Clear Skies\
+<br> Cm/Clear Skies\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Derpy.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Derpy.gif">\
-<br> Cutie Marks/Derpy\
+<br> Cm/Derpy\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Fluttershy.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Fluttershy.gif">\
-<br> Cutie Marks/Fluttershy\
+<br> Cm/Fluttershy\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Luna.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Luna.gif">\
-<br> Cutie Marks/Luna\
+<br> Cm/Luna\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Lyra Heartstrings.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Lyra Heartstrings.gif">\
-<br> Cutie Marks/Lyra Heartstrings\
+<br> Cm/Lyra Heartstrings\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Manga.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Manga.gif">\
-<br> Cutie Marks/Manga\
+<br> Cm/Manga\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Nurse Redheart.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Nurse Redheart.gif">\
-<br> Cutie Marks/Nurse Redheart\
+<br> Cm/Nurse Redheart\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Octavia.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Octavia.gif">\
-<br> Cutie Marks/Octavia\
+<br> Cm/Octavia\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Pinkie Pie.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Pinkie Pie.gif">\
-<br> Cutie Marks/Pinkie Pie\
+<br> Cm/Pinkie Pie\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Rainbow Dash.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Rainbow Dash.gif">\
-<br> Cutie Marks/Rainbow Dash\
+<br> Cm/Rainbow Dash\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Rarity.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Rarity.gif">\
-<br> Cutie Marks/Rarity\
+<br> Cm/Rarity\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Rose.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Rose.gif">\
-<br> Cutie Marks/Rose\
+<br> Cm/Rose\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Shining Armor.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Shining Armor.gif">\
-<br> Cutie Marks/Shining Armor\
+<br> Cm/Shining Armor\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Spitfire.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Spitfire.gif">\
-<br> Cutie Marks/Spitfire\
+<br> Cm/Spitfire\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Starlight.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Starlight.gif">\
-<br> Cutie Marks/Starlight\
+<br> Cm/Starlight\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Sunset Shimmer.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Sunset Shimmer.gif">\
-<br> Cutie Marks/Sunset Shimmer\
+<br> Cm/Sunset Shimmer\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Tracy Cage.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Tracy Cage.gif">\
-<br> Cutie Marks/Tracy Cage\
+<br> Cm/Tracy Cage\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Trixie.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Trixie.gif">\
-<br> Cutie Marks/Trixie\
+<br> Cm/Trixie\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Twilight Sparkle.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Twilight Sparkle.gif">\
-<br> Cutie Marks/Twilight Sparkle\
+<br> Cm/Twilight Sparkle\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Vinyl Scratch.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Vinyl Scratch.gif">\
-<br> Cutie Marks/Vinyl Scratch\
+<br> Cm/Vinyl Scratch\
 </div>\
 <div class="frame smallframe bg">\
 <img src="16-16-ponies/misc/cutie-marks/Zecora.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/cutie-marks/Zecora.gif">\
-<br> Cutie Marks/Zecora\
+<br> Cm/Zecora\
 </div>\
 <br> Total count: 30\
 ');
