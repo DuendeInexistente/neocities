@@ -8,6 +8,14 @@ document.write('\
 <br> Anon\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/16-16-apathia.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-apathia.gif">\
+<br> Apathia\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/16-16-apogee.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-apogee.gif">\
+<br> Apogee\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/OCs/16-16-aryanne.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-aryanne.gif">\
 <br> Aryanne\
 </div>\
@@ -18,6 +26,10 @@ document.write('\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/OCs/16-16-cream-heart.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-cream-heart.gif">\
 <br> Cream Heart\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/16-16-dissentia.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-dissentia.gif">\
+<br> Dissentia\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/OCs/16-16-fausticorn.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-fausticorn.gif">\
@@ -63,5 +75,9 @@ document.write('\
 <img class="pixels" src="16-16-ponies/OCs/16-16-verity.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-verity.gif">\
 <br> Verity\
 </div>\
-<br> Total count: 16\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/16px night star.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16px night star.gif">\
+<br> Night Star\
+</div>\
+<br> Total count: 20\
 ');

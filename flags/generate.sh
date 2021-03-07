@@ -1,7 +1,5 @@
 #!/bin/zsh
 
-./download.sh
-
 local sumatotal=0
 local suma=0
 local thecutest=canon
@@ -13,6 +11,7 @@ local whosasillypony=$file
 
 
 repeat 10 local whosasillypony=${whosasillypony/16/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
 repeat 10 local whosasillypony=${whosasillypony/-/\ }
@@ -44,6 +43,7 @@ for file in 16-16-ponies/$thecutest/*.gif;do
 local whosasillypony=$file
 
 repeat 10 local whosasillypony=${whosasillypony/16-/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
 repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
@@ -75,6 +75,7 @@ for file in 16-16-ponies/$thecutest/*.gif;do
 local whosasillypony=$file
 
 repeat 10 local whosasillypony=${whosasillypony/16-/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
 repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
@@ -105,6 +106,7 @@ for file in 16-16-ponies/$thecutest/*.gif;do
 local whosasillypony=$file
 
 repeat 10 local whosasillypony=${whosasillypony/16-/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
 repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
@@ -136,6 +138,7 @@ for file in 16-16-ponies/$thecutest/*.gif;do
 local whosasillypony=$file
 
 repeat 10 local whosasillypony=${whosasillypony/16-/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
 repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
@@ -167,6 +170,39 @@ for file in 16-16-ponies/$thecutest/*.gif;do
 local whosasillypony=$file
 
 repeat 10 local whosasillypony=${whosasillypony/16-/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
+repeat 10 local whosasillypony=${whosasillypony/ponies/}
+repeat 10 local whosasillypony=${whosasillypony/\//}
+repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
+repeat 10 local whosasillypony=${whosasillypony/-/\ }
+repeat 10 local whosasillypony=${whosasillypony/\ \ /\ }
+repeat 10 local whosasillypony=${whosasillypony/.gif/}
+
+echo \<div class=\"frame smallframe bg\"\> >> $thecutest.html
+echo \<img class=\"pixels\" src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutest.html
+echo \<br\> ${(C)whosasillypony} >> $thecutest.html
+echo \<\/div\> >> $thecutest.html
+let "suma+=1"
+done
+
+echo \<br\> Total count: $suma >>$thecutest.html 
+./convert.sh $thecutest.html
+rm $thecutest.html
+
+echo -------------------------------------------------
+let "sumatotal+=suma"
+echo $sumatotal
+
+local suma=0
+local thecutest=G1
+rm $thecutest.html
+
+for file in 16-16-ponies/$thecutest/*.gif;do
+
+local whosasillypony=$file
+
+repeat 10 local whosasillypony=${whosasillypony/16-/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
 repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
@@ -198,6 +234,7 @@ for file in 16-16-ponies/$thecutest/*.gif;do
 local whosasillypony=$file
 
 repeat 10 local whosasillypony=${whosasillypony/16-/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
 repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
@@ -232,6 +269,7 @@ local whosasillypony=$file
 
 
 repeat 10 local whosasillypony=${whosasillypony/16-/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
 repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
@@ -265,6 +303,7 @@ for file in 16-16-ponies/$thecutest/*.gif;do
 local whosasillypony=$file
 
 repeat 10 local whosasillypony=${whosasillypony/16-/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
 repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
@@ -299,6 +338,7 @@ for file in 16-16-ponies/$thecutest/*.gif;do
 local whosasillypony=$file
 
 repeat 10 local whosasillypony=${whosasillypony/16-/}
+repeat 10 local whosasillypony=${whosasillypony/16px /}
 repeat 10 local whosasillypony=${whosasillypony/ponies/}
 repeat 10 local whosasillypony=${whosasillypony/\//}
 repeat 10 local whosasillypony=${whosasillypony/$thecutest/}
@@ -351,3 +391,6 @@ rm grandtotal.html
 mv 16-16-ponies/16-16-tenor.gif 16-16-ponies/16-16-tenor.gif.no
 montage 16-16-ponies/*.gif 16-16-ponies/*/*.gif 16-16-ponies/*/*/*.gif -mode concatenate -background none atlasfull.png
 mv 16-16-ponies/16-16-tenor.gif.no 16-16-ponies/16-16-tenor.gif
+optipng atlasfull.png
+
+./download.sh
