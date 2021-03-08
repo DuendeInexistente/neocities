@@ -127,5 +127,17 @@ document.write('\
 <img class="pixels" src="16-16-ponies/EqG/16-16-wallflower-blush.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/16-16-wallflower-blush.gif">\
 <br> Wallflower Blush\
 </div>\
-<br> Total count: 32\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/EqG/Jupiter Montage.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/Jupiter Montage.gif">\
+<br> Jupiter Montage\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/EqG/Norman Normal.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/Norman Normal.gif">\
+<br> Norman Normal\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/EqG/Vignette.gif"><br><img class="pixels scale400" src="16-16-ponies/EqG/Vignette.gif">\
+<br> Vignette\
+</div>\
+<br> Total count: 35\
 ');

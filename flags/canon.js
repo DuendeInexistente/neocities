@@ -156,6 +156,10 @@ document.write('\
 <br>  Jem Cosplayer\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/16-16-jinx.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-jinx.gif">\
+<br>  Jinx\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/16-16-junebug.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-junebug.gif">\
 <br>  Junebug\
 </div>\
@@ -254,6 +258,10 @@ document.write('\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/16-16-pinkie-pie.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-pinkie-pie.gif">\
 <br>  Pinkie Pie\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/16-16-plot.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-plot.gif">\
+<br>  Plot\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/16-16-rainbow-dash.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-rainbow-dash.gif">\
@@ -400,6 +408,10 @@ document.write('\
 <br>  Cheese Sandwich\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Cozy Glow (Demon).gif"><br><img class="pixels scale400" src="16-16-ponies/Cozy Glow (Demon).gif">\
+<br>  Cozy Glow (Demon)\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Daybreaker.gif"><br><img class="pixels scale400" src="16-16-ponies/Daybreaker.gif">\
 <br>  Daybreaker\
 </div>\
@@ -472,34 +484,6 @@ document.write('\
 <br>  Rock Hoof\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Sideways Applejack.gif"><br><img class="pixels scale400" src="16-16-ponies/Sideways Applejack.gif">\
-<br>  Sideways Applejack\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Sideways Aryanne.gif"><br><img class="pixels scale400" src="16-16-ponies/Sideways Aryanne.gif">\
-<br>  Sideways Aryanne\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Sideways Fluttershy.gif"><br><img class="pixels scale400" src="16-16-ponies/Sideways Fluttershy.gif">\
-<br>  Sideways Fluttershy\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Sideways Pinkie Pie.gif"><br><img class="pixels scale400" src="16-16-ponies/Sideways Pinkie Pie.gif">\
-<br>  Sideways Pinkie Pie\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Sideways Rainbow Dash.gif"><br><img class="pixels scale400" src="16-16-ponies/Sideways Rainbow Dash.gif">\
-<br>  Sideways Rainbow Dash\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Sideways Rarity.gif"><br><img class="pixels scale400" src="16-16-ponies/Sideways Rarity.gif">\
-<br>  Sideways Rarity\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Sideways Twilight Sparkle.gif"><br><img class="pixels scale400" src="16-16-ponies/Sideways Twilight Sparkle.gif">\
-<br>  Sideways Twilight Sparkle\
-</div>\
-<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Silverstream.gif"><br><img class="pixels scale400" src="16-16-ponies/Silverstream.gif">\
 <br>  Silverstream\
 </div>\
@@ -527,5 +511,5 @@ document.write('\
 <img class="pixels" src="16-16-ponies/Yonna (Pony).gif"><br><img class="pixels scale400" src="16-16-ponies/Yonna (Pony).gif">\
 <br>  Yonna (Pony)\
 </div>\
-<br> Total count: 132\
+<br> Total count: 128\
 ');

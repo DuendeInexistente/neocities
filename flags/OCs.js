@@ -64,6 +64,10 @@ document.write('\
 <br> Pinkie Pie Creepypasta\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/16-16 scruffy-scruffingston.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16 scruffy-scruffingston.gif">\
+<br> 16 Scruffy Scruffingston\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/OCs/16-16-sergeant-reckless.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-sergeant-reckless.gif">\
 <br> Sergeant Reckless\
 </div>\
@@ -76,8 +80,16 @@ document.write('\
 <br> Verity\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/16px blackjack.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16px blackjack.gif">\
+<br> Blackjack\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/OCs/16px night star.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16px night star.gif">\
 <br> Night Star\
 </div>\
-<br> Total count: 20\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/Senior Huevos.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/Senior Huevos.gif">\
+<br> Senior Huevos\
+</div>\
+<br> Total count: 23\
 ');

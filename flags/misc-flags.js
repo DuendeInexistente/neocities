@@ -32,6 +32,10 @@ document.write('\
 <br>  F/Dazzling\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/misc/flags/equestria 2.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/equestria 2.gif">\
+<br>  F/Equestria 2\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/equestria.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/equestria.gif">\
 <br>  F/Equestria\
 </div>\
@@ -83,5 +87,5 @@ document.write('\
 <img class="pixels" src="16-16-ponies/misc/flags/bigones/ponyville big.gif"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/bigones/ponyville big.gif">\
 <br>  F/Ponyville Big\
 </div>\
-<br> Total count: 21\
+<br> Total count: 22\
 ');
