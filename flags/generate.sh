@@ -10,7 +10,7 @@ shopt -s nocaseglob
 for file in 16-16-ponies/*.{gif,png};do
 local whosasillypony=applejack
 local whosasillypony=$file
-
+echo $file
 
 repeat 10 local whosasillypony=${whosasillypony/16/}
 repeat 10 local whosasillypony=${whosasillypony/16px /}
