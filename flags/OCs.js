@@ -1,5 +1,9 @@
 document.write('\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/16-16-16px scruffy-scruffingston.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-16px scruffy-scruffingston.gif">\
+<br> Scruffy Scruffingston\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/OCs/16-16-anonfilly.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-anonfilly.gif">\
 <br> Anonfilly\
 </div>\
@@ -64,10 +68,6 @@ document.write('\
 <br> Pinkie Pie Creepypasta\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/OCs/16-16 scruffy-scruffingston.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16 scruffy-scruffingston.gif">\
-<br> 16 Scruffy Scruffingston\
-</div>\
-<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/OCs/16-16-sergeant-reckless.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-sergeant-reckless.gif">\
 <br> Sergeant Reckless\
 </div>\
@@ -88,8 +88,12 @@ document.write('\
 <br> Night Star\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/OCs/Senior Huevos.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/Senior Huevos.gif">\
-<br> Senior Huevos\
+<img class="pixels" src="16-16-ponies/OCs/Jar.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/Jar.gif">\
+<br> Jar\
 </div>\
-<br> Total count: 23\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/Trollface.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/Trollface.gif">\
+<br> Trollface\
+</div>\
+<br> Total count: 24\
 ');

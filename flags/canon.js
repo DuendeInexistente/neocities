@@ -420,6 +420,10 @@ document.write('\
 <br>  Fancy Pants\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Flam.gif"><br><img class="pixels scale400" src="16-16-ponies/Flam.gif">\
+<br>  Flam\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Flash Magnus.gif"><br><img class="pixels scale400" src="16-16-ponies/Flash Magnus.gif">\
 <br>  Flash Magnus\
 </div>\
@@ -436,12 +440,20 @@ document.write('\
 <br>  Fleur De Lis\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Flim.gif"><br><img class="pixels scale400" src="16-16-ponies/Flim.gif">\
+<br>  Flim\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Granny Smith.gif"><br><img class="pixels scale400" src="16-16-ponies/Granny Smith.gif">\
 <br>  Granny Smith\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Granny Smith (Young).gif"><br><img class="pixels scale400" src="16-16-ponies/Granny Smith (Young).gif">\
 <br>  Granny Smith (Young)\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Kerfuffle.gif"><br><img class="pixels scale400" src="16-16-ponies/Kerfuffle.gif">\
+<br>  Kerfuffle\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/lightning dust.gif"><br><img class="pixels scale400" src="16-16-ponies/lightning dust.gif">\
@@ -460,12 +472,20 @@ document.write('\
 <br>  Mistmane (Young)\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Mr Cake.gif"><br><img class="pixels scale400" src="16-16-ponies/Mr Cake.gif">\
+<br>  Mr Cake\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Nightmare Moon (Alpha).gif"><br><img class="pixels scale400" src="16-16-ponies/Nightmare Moon (Alpha).gif">\
 <br>  Nightmare Moon (Alpha)\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Nightmare Moon.gif"><br><img class="pixels scale400" src="16-16-ponies/Nightmare Moon.gif">\
 <br>  Nightmare Moon\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Nurse Tenderheart.gif"><br><img class="pixels scale400" src="16-16-ponies/Nurse Tenderheart.gif">\
+<br>  Nurse Tenderheart\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Ocellus (Pony).gif"><br><img class="pixels scale400" src="16-16-ponies/Ocellus (Pony).gif">\
@@ -476,12 +496,20 @@ document.write('\
 <br>  Pacific Glow\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Petunia Petals.gif"><br><img class="pixels scale400" src="16-16-ponies/Petunia Petals.gif">\
+<br>  Petunia Petals\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Princess Erroria.gif"><br><img class="pixels scale400" src="16-16-ponies/Princess Erroria.gif">\
 <br>  Princess Erroria\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Rock Hoof.gif"><br><img class="pixels scale400" src="16-16-ponies/Rock Hoof.gif">\
 <br>  Rock Hoof\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Senior Huevos.gif"><br><img class="pixels scale400" src="16-16-ponies/Senior Huevos.gif">\
+<br>  Senior Huevos\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Silverstream.gif"><br><img class="pixels scale400" src="16-16-ponies/Silverstream.gif">\
@@ -508,8 +536,12 @@ document.write('\
 <br>  Spitfire (Suit)\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Torque Wrench.gif"><br><img class="pixels scale400" src="16-16-ponies/Torque Wrench.gif">\
+<br>  Torque Wrench\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Yonna (Pony).gif"><br><img class="pixels scale400" src="16-16-ponies/Yonna (Pony).gif">\
 <br>  Yonna (Pony)\
 </div>\
-<br> Total count: 128\
+<br> Total count: 136\
 ');
