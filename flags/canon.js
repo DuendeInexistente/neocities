@@ -1,547 +1,543 @@
 document.write('\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-almond-joy.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-almond-joy.gif">\
+<img class="pixels" src="16-16-ponies/17-32-tenor.gif"><br><img class="pixels scale400" src="16-16-ponies/17-32-tenor.gif">\
+<br>  17 32 Tenor\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/16-16-almond-joy.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-almond-joy.png">\
 <br>  Almond Joy\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-aloe.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-aloe.gif">\
+<img class="pixels" src="16-16-ponies/16-16-aloe.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-aloe.png">\
 <br>  Aloe\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-apple-bloom.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-apple-bloom.gif">\
+<img class="pixels" src="16-16-ponies/16-16-apple-bloom.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-apple-bloom.png">\
 <br>  Apple Bloom\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-apple-brown-betty.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-apple-brown-betty.gif">\
+<img class="pixels" src="16-16-ponies/16-16-apple-brown-betty.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-apple-brown-betty.png">\
 <br>  Apple Brown Betty\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-apple-bumpkin.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-apple-bumpkin.gif">\
+<img class="pixels" src="16-16-ponies/16-16-apple-bumpkin.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-apple-bumpkin.png">\
 <br>  Apple Bumpkin\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-apple-fritter.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-apple-fritter.gif">\
+<img class="pixels" src="16-16-ponies/16-16-apple-fritter.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-apple-fritter.png">\
 <br>  Apple Fritter\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-applejack.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-applejack.gif">\
+<img class="pixels" src="16-16-ponies/16-16-applejack.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-applejack.png">\
 <br>  Applejack\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-apple-leaves.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-apple-leaves.gif">\
+<img class="pixels" src="16-16-ponies/16-16-apple-leaves.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-apple-leaves.png">\
 <br>  Apple Leaves\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-autumn-blaze.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-autumn-blaze.gif">\
+<img class="pixels" src="16-16-ponies/16-16-autumn-blaze.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-autumn-blaze.png">\
 <br>  Autumn Blaze\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-berry-punch.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-berry-punch.gif">\
+<img class="pixels" src="16-16-ponies/16-16-berry-punch.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-berry-punch.png">\
 <br>  Berry Punch\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-big-mac.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-big-mac.gif">\
+<img class="pixels" src="16-16-ponies/16-16-big-mac.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-big-mac.png">\
 <br>  Big Mac\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-blossomforth.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-blossomforth.gif">\
+<img class="pixels" src="16-16-ponies/16-16-blossomforth.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-blossomforth.png">\
 <br>  Blossomforth\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-bon-bon.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-bon-bon.gif">\
+<img class="pixels" src="16-16-ponies/16-16-bon-bon.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-bon-bon.png">\
 <br>  Bon Bon\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-bright-mac.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-bright-mac.gif">\
+<img class="pixels" src="16-16-ponies/16-16-bright-mac.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-bright-mac.png">\
 <br>  Bright Mac\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-cadance.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-cadance.gif">\
+<img class="pixels" src="16-16-ponies/16-16-cadance.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-cadance.png">\
 <br>  Cadance\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-candy-apples.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-candy-apples.gif">\
+<img class="pixels" src="16-16-ponies/16-16-candy-apples.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-candy-apples.png">\
 <br>  Candy Apples\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-carrot-top.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-carrot-top.gif">\
+<img class="pixels" src="16-16-ponies/16-16-carrot-top.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-carrot-top.png">\
 <br>  Carrot Top\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-celestia.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-celestia.gif">\
+<img class="pixels" src="16-16-ponies/16-16-celestia.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-celestia.png">\
 <br>  Celestia\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-chancellor-neighsay.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-chancellor-neighsay.gif">\
+<img class="pixels" src="16-16-ponies/16-16-chancellor-neighsay.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-chancellor-neighsay.png">\
 <br>  Chancellor Neighsay\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-changeling.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-changeling.gif">\
-<br>  Changeling\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-changeling-metamorphosed.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-changeling-metamorphosed.gif">\
+<img class="pixels" src="16-16-ponies/16-16-changeling-metamorphosed.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-changeling-metamorphosed.png">\
 <br>  Changeling Metamorphosed\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-cheerilee.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-cheerilee.gif">\
+<img class="pixels" src="16-16-ponies/16-16-changeling.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-changeling.png">\
+<br>  Changeling\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/16-16-cheerilee.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-cheerilee.png">\
 <br>  Cheerilee\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-cherry-berry.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-cherry-berry.gif">\
+<img class="pixels" src="16-16-ponies/16-16-cherry-berry.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-cherry-berry.png">\
 <br>  Cherry Berry\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-chrysalis.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-chrysalis.gif">\
+<img class="pixels" src="16-16-ponies/16-16-chrysalis.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-chrysalis.png">\
 <br>  Chrysalis\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-clear-skies.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-clear-skies.gif">\
+<img class="pixels" src="16-16-ponies/16-16-clear-skies.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-clear-skies.png">\
 <br>  Clear Skies\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-cloud-chaser.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-cloud-chaser.gif">\
+<img class="pixels" src="16-16-ponies/16-16-cloud-chaser.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-cloud-chaser.png">\
 <br>  Cloud Chaser\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-cloud-kicker.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-cloud-kicker.gif">\
+<img class="pixels" src="16-16-ponies/16-16-cloud-kicker.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-cloud-kicker.png">\
 <br>  Cloud Kicker\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-coco-pommel.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-coco-pommel.gif">\
+<img class="pixels" src="16-16-ponies/16-16-coco-pommel.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-coco-pommel.png">\
 <br>  Coco Pommel\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-cozy-glow.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-cozy-glow.gif">\
+<img class="pixels" src="16-16-ponies/16-16-cozy-glow.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-cozy-glow.png">\
 <br>  Cozy Glow\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-daisy.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-daisy.gif">\
+<img class="pixels" src="16-16-ponies/16-16-daisy.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-daisy.png">\
 <br>  Daisy\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-daring-do.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-daring-do.gif">\
+<img class="pixels" src="16-16-ponies/16-16-daring-do.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-daring-do.png">\
 <br>  Daring Do\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-derpy-hooves.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-derpy-hooves.gif">\
+<img class="pixels" src="16-16-ponies/16-16-derpy-hooves.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-derpy-hooves.png">\
 <br>  Derpy Hooves\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-diamond-tiara.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-diamond-tiara.gif">\
+<img class="pixels" src="16-16-ponies/16-16-diamond-tiara.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-diamond-tiara.png">\
 <br>  Diamond Tiara\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-discord.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-discord.gif">\
+<img class="pixels" src="16-16-ponies/16-16-discord.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-discord.png">\
 <br>  Discord\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-ember.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-ember.gif">\
+<img class="pixels" src="16-16-ponies/16-16-ember.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-ember.png">\
 <br>  Ember\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-flitter.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-flitter.gif">\
+<img class="pixels" src="16-16-ponies/16-16-flitter.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-flitter.png">\
 <br>  Flitter\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-fluttershy.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-fluttershy.gif">\
+<img class="pixels" src="16-16-ponies/16-16-fluttershy.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-fluttershy.png">\
 <br>  Fluttershy\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-gilda.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-gilda.gif">\
+<img class="pixels" src="16-16-ponies/16-16-gilda.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-gilda.png">\
 <br>  Gilda\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-jem-cosplayer.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-jem-cosplayer.gif">\
+<img class="pixels" src="16-16-ponies/16-16-jem-cosplayer.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-jem-cosplayer.png">\
 <br>  Jem Cosplayer\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-jinx.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-jinx.gif">\
+<img class="pixels" src="16-16-ponies/16-16-jinx.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-jinx.png">\
 <br>  Jinx\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-junebug.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-junebug.gif">\
+<img class="pixels" src="16-16-ponies/16-16-junebug.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-junebug.png">\
 <br>  Junebug\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-king-sombra.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-king-sombra.gif">\
+<img class="pixels" src="16-16-ponies/16-16-king-sombra.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-king-sombra.png">\
 <br>  King Sombra\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-lemon-hearts.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-lemon-hearts.gif">\
+<img class="pixels" src="16-16-ponies/16-16-lemon-hearts.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-lemon-hearts.png">\
 <br>  Lemon Hearts\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-lily-valley.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-lily-valley.gif">\
+<img class="pixels" src="16-16-ponies/16-16-lily-valley.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-lily-valley.png">\
 <br>  Lily Valley\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-limestone-pie.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-limestone-pie.gif">\
+<img class="pixels" src="16-16-ponies/16-16-limestone-pie.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-limestone-pie.png">\
 <br>  Limestone Pie\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-lord-tirek.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-lord-tirek.gif">\
+<img class="pixels" src="16-16-ponies/16-16-lord-tirek.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-lord-tirek.png">\
 <br>  Lord Tirek\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-lotus-blossom.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-lotus-blossom.gif">\
+<img class="pixels" src="16-16-ponies/16-16-lotus-blossom.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-lotus-blossom.png">\
 <br>  Lotus Blossom\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-luna.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-luna.gif">\
+<img class="pixels" src="16-16-ponies/16-16-luna.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-luna.png">\
 <br>  Luna\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-lyra-heartstrings.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-lyra-heartstrings.gif">\
+<img class="pixels" src="16-16-ponies/16-16-lyra-heartstrings.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-lyra-heartstrings.png">\
 <br>  Lyra Heartstrings\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-marble-pie.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-marble-pie.gif">\
+<img class="pixels" src="16-16-ponies/16-16-marble-pie.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-marble-pie.png">\
 <br>  Marble Pie\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-maud-pie.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-maud-pie.gif">\
+<img class="pixels" src="16-16-ponies/16-16-maud-pie.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-maud-pie.png">\
 <br>  Maud Pie\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-mayor-mare.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-mayor-mare.gif">\
+<img class="pixels" src="16-16-ponies/16-16-mayor-mare.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-mayor-mare.png">\
 <br>  Mayor Mare\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-meno-amare.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-meno-amare.gif">\
+<img class="pixels" src="16-16-ponies/16-16-meno-amare.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-meno-amare.png">\
 <br>  Meno Amare\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-minty-apple.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-minty-apple.gif">\
+<img class="pixels" src="16-16-ponies/16-16-minty-apple.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-minty-apple.png">\
 <br>  Minty Apple\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-minuette.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-minuette.gif">\
+<img class="pixels" src="16-16-ponies/16-16-minuette.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-minuette.png">\
 <br>  Minuette\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-mrs-cake.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-mrs-cake.gif">\
+<img class="pixels" src="16-16-ponies/16-16-mrs-cake.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-mrs-cake.png">\
 <br>  Mrs Cake\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-nurse-redheart.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-nurse-redheart.gif">\
+<img class="pixels" src="16-16-ponies/16-16-nurse-redheart.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-nurse-redheart.png">\
 <br>  Nurse Redheart\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-octavia.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-octavia.gif">\
+<img class="pixels" src="16-16-ponies/16-16-octavia.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-octavia.png">\
 <br>  Octavia\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-parasprite.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-parasprite.gif">\
+<img class="pixels" src="16-16-ponies/16-16-parasprite.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-parasprite.png">\
 <br>  Parasprite\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-pear-butter.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-pear-butter.gif">\
+<img class="pixels" src="16-16-ponies/16-16-pear-butter.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-pear-butter.png">\
 <br>  Pear Butter\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-pharynx.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-pharynx.gif">\
-<br>  Pharynx\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-pharynx-metamorphosed.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-pharynx-metamorphosed.gif">\
+<img class="pixels" src="16-16-ponies/16-16-pharynx-metamorphosed.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-pharynx-metamorphosed.png">\
 <br>  Pharynx Metamorphosed\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-photo-finish.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-photo-finish.gif">\
+<img class="pixels" src="16-16-ponies/16-16-pharynx.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-pharynx.png">\
+<br>  Pharynx\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/16-16-photo-finish.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-photo-finish.png">\
 <br>  Photo Finish\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-pinkamena.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-pinkamena.gif">\
+<img class="pixels" src="16-16-ponies/16-16-pinkamena.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-pinkamena.png">\
 <br>  Pinkamena\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-pinkie-pie.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-pinkie-pie.gif">\
+<img class="pixels" src="16-16-ponies/16-16-pinkie-pie.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-pinkie-pie.png">\
 <br>  Pinkie Pie\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-plot.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-plot.gif">\
+<img class="pixels" src="16-16-ponies/16-16-plot.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-plot.png">\
 <br>  Plot\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-rainbow-dash.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-rainbow-dash.gif">\
+<img class="pixels" src="16-16-ponies/16-16-rainbow-dash.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-rainbow-dash.png">\
 <br>  Rainbow Dash\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-rarity.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-rarity.gif">\
+<img class="pixels" src="16-16-ponies/16-16-rarity.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-rarity.png">\
 <br>  Rarity\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-roseluck.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-roseluck.gif">\
+<img class="pixels" src="16-16-ponies/16-16-roseluck.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-roseluck.png">\
 <br>  Roseluck\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-s1-luna.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-s1-luna.gif">\
+<img class="pixels" src="16-16-ponies/16-16-s1-luna.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-s1-luna.png">\
 <br>  S1 Luna\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-saffron-masala.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-saffron-masala.gif">\
+<img class="pixels" src="16-16-ponies/16-16-saffron-masala.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-saffron-masala.png">\
 <br>  Saffron Masala\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-scootaloo.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-scootaloo.gif">\
+<img class="pixels" src="16-16-ponies/16-16-scootaloo.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-scootaloo.png">\
 <br>  Scootaloo\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-sea-swirl.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-sea-swirl.gif">\
+<img class="pixels" src="16-16-ponies/16-16-sea-swirl.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-sea-swirl.png">\
 <br>  Sea Swirl\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-shining-armor.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-shining-armor.gif">\
+<img class="pixels" src="16-16-ponies/16-16-shining-armor.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-shining-armor.png">\
 <br>  Shining Armor\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-shoeshine.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-shoeshine.gif">\
+<img class="pixels" src="16-16-ponies/16-16-shoeshine.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-shoeshine.png">\
 <br>  Shoeshine\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-silver-spoon.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-silver-spoon.gif">\
+<img class="pixels" src="16-16-ponies/16-16-silver-spoon.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-silver-spoon.png">\
 <br>  Silver Spoon\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-spike.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-spike.gif">\
+<img class="pixels" src="16-16-ponies/16-16-spike.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-spike.png">\
 <br>  Spike\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-spoiled-rich.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-spoiled-rich.gif">\
+<img class="pixels" src="16-16-ponies/16-16-spoiled-rich.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-spoiled-rich.png">\
 <br>  Spoiled Rich\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-star-dancer.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-star-dancer.gif">\
+<img class="pixels" src="16-16-ponies/16-16-star-dancer.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-star-dancer.png">\
 <br>  Star Dancer\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-starlight-glimmer.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-starlight-glimmer.gif">\
-<br>  Starlight Glimmer\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-starlight-glimmer-leader.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-starlight-glimmer-leader.gif">\
+<img class="pixels" src="16-16-ponies/16-16-starlight-glimmer-leader.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-starlight-glimmer-leader.png">\
 <br>  Starlight Glimmer Leader\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-starswirl-the-bearded.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-starswirl-the-bearded.gif">\
+<img class="pixels" src="16-16-ponies/16-16-starlight-glimmer.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-starlight-glimmer.png">\
+<br>  Starlight Glimmer\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/16-16-starswirl-the-bearded.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-starswirl-the-bearded.png">\
 <br>  Starswirl The Bearded\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-stellar-flare.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-stellar-flare.gif">\
+<img class="pixels" src="16-16-ponies/16-16-stellar-flare.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-stellar-flare.png">\
 <br>  Stellar Flare\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-sugar-belle.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-sugar-belle.gif">\
+<img class="pixels" src="16-16-ponies/16-16-sugar-belle.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-sugar-belle.png">\
 <br>  Sugar Belle\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-sunburst.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-sunburst.gif">\
+<img class="pixels" src="16-16-ponies/16-16-sunburst.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-sunburst.png">\
 <br>  Sunburst\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-sunset-shimmer.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-sunset-shimmer.gif">\
+<img class="pixels" src="16-16-ponies/16-16-sunset-shimmer.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-sunset-shimmer.png">\
 <br>  Sunset Shimmer\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-suri-polomare.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-suri-polomare.gif">\
+<img class="pixels" src="16-16-ponies/16-16-suri-polomare.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-suri-polomare.png">\
 <br>  Suri Polomare\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-sweetie-belle.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-sweetie-belle.gif">\
+<img class="pixels" src="16-16-ponies/16-16-sweetie-belle.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-sweetie-belle.png">\
 <br>  Sweetie Belle\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-tempest-shadow.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-tempest-shadow.gif">\
+<img class="pixels" src="16-16-ponies/16-16-tempest-shadow.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-tempest-shadow.png">\
 <br>  Tempest Shadow\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-tenor.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-tenor.gif">\
-<br>  Tenor\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-thorax.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-thorax.gif">\
-<br>  Thorax\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-thorax-metamorphosed.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-thorax-metamorphosed.gif">\
+<img class="pixels" src="16-16-ponies/16-16-thorax-metamorphosed.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-thorax-metamorphosed.png">\
 <br>  Thorax Metamorphosed\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-tree-hugger.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-tree-hugger.gif">\
+<img class="pixels" src="16-16-ponies/16-16-thorax.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-thorax.png">\
+<br>  Thorax\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/16-16-tree-hugger.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-tree-hugger.png">\
 <br>  Tree Hugger\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-trixie.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-trixie.gif">\
+<img class="pixels" src="16-16-ponies/16-16-trixie.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-trixie.png">\
 <br>  Trixie\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-twilight-sparkle.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-twilight-sparkle.gif">\
+<img class="pixels" src="16-16-ponies/16-16-twilight-sparkle.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-twilight-sparkle.png">\
 <br>  Twilight Sparkle\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-twinkleshine.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-twinkleshine.gif">\
+<img class="pixels" src="16-16-ponies/16-16-twinkleshine.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-twinkleshine.png">\
 <br>  Twinkleshine\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-zecora.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-zecora.gif">\
+<img class="pixels" src="16-16-ponies/16-16-zecora.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-zecora.png">\
 <br>  Zecora\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/16-16-zephyr-breeze.gif"><br><img class="pixels scale400" src="16-16-ponies/16-16-zephyr-breeze.gif">\
+<img class="pixels" src="16-16-ponies/16-16-zephyr-breeze.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-zephyr-breeze.png">\
 <br>  Zephyr Breeze\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Angel Wings.gif"><br><img class="pixels scale400" src="16-16-ponies/Angel Wings.gif">\
+<img class="pixels" src="16-16-ponies/Angel Wings.png"><br><img class="pixels scale400" src="16-16-ponies/Angel Wings.png">\
 <br>  Angel Wings\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Babs Seed.gif"><br><img class="pixels scale400" src="16-16-ponies/Babs Seed.gif">\
+<img class="pixels" src="16-16-ponies/Babs Seed.png"><br><img class="pixels scale400" src="16-16-ponies/Babs Seed.png">\
 <br>  Babs Seed\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Big Brian.gif"><br><img class="pixels scale400" src="16-16-ponies/Big Brian.gif">\
-<br>  Big Brian\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Cheese sandwich.gif"><br><img class="pixels scale400" src="16-16-ponies/Cheese sandwich.gif">\
+<img class="pixels" src="16-16-ponies/Cheese sandwich.png"><br><img class="pixels scale400" src="16-16-ponies/Cheese sandwich.png">\
 <br>  Cheese Sandwich\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Cozy Glow (Demon).gif"><br><img class="pixels scale400" src="16-16-ponies/Cozy Glow (Demon).gif">\
+<img class="pixels" src="16-16-ponies/Cozy Glow (Demon).png"><br><img class="pixels scale400" src="16-16-ponies/Cozy Glow (Demon).png">\
 <br>  Cozy Glow (Demon)\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Daybreaker.gif"><br><img class="pixels scale400" src="16-16-ponies/Daybreaker.gif">\
+<img class="pixels" src="16-16-ponies/Daybreaker.png"><br><img class="pixels scale400" src="16-16-ponies/Daybreaker.png">\
 <br>  Daybreaker\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Fancy pants.gif"><br><img class="pixels scale400" src="16-16-ponies/Fancy pants.gif">\
+<img class="pixels" src="16-16-ponies/Fancy pants.png"><br><img class="pixels scale400" src="16-16-ponies/Fancy pants.png">\
 <br>  Fancy Pants\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Flam.gif"><br><img class="pixels scale400" src="16-16-ponies/Flam.gif">\
+<img class="pixels" src="16-16-ponies/Flam.png"><br><img class="pixels scale400" src="16-16-ponies/Flam.png">\
 <br>  Flam\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Flash Magnus.gif"><br><img class="pixels scale400" src="16-16-ponies/Flash Magnus.gif">\
+<img class="pixels" src="16-16-ponies/Flash Magnus.png"><br><img class="pixels scale400" src="16-16-ponies/Flash Magnus.png">\
 <br>  Flash Magnus\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Fleetfoot.gif"><br><img class="pixels scale400" src="16-16-ponies/Fleetfoot.gif">\
+<img class="pixels" src="16-16-ponies/Fleetfoot.png"><br><img class="pixels scale400" src="16-16-ponies/Fleetfoot.png">\
 <br>  Fleetfoot\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Fleetfoot (Suit).gif"><br><img class="pixels scale400" src="16-16-ponies/Fleetfoot (Suit).gif">\
+<img class="pixels" src="16-16-ponies/Fleetfoot (Suit).png"><br><img class="pixels scale400" src="16-16-ponies/Fleetfoot (Suit).png">\
 <br>  Fleetfoot (Suit)\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Fleur de lis.gif"><br><img class="pixels scale400" src="16-16-ponies/Fleur de lis.gif">\
+<img class="pixels" src="16-16-ponies/Fleur de lis.png"><br><img class="pixels scale400" src="16-16-ponies/Fleur de lis.png">\
 <br>  Fleur De Lis\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Flim.gif"><br><img class="pixels scale400" src="16-16-ponies/Flim.gif">\
+<img class="pixels" src="16-16-ponies/Flim.png"><br><img class="pixels scale400" src="16-16-ponies/Flim.png">\
 <br>  Flim\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Granny Smith.gif"><br><img class="pixels scale400" src="16-16-ponies/Granny Smith.gif">\
+<img class="pixels" src="16-16-ponies/Granny Smith.png"><br><img class="pixels scale400" src="16-16-ponies/Granny Smith.png">\
 <br>  Granny Smith\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Granny Smith (Young).gif"><br><img class="pixels scale400" src="16-16-ponies/Granny Smith (Young).gif">\
+<img class="pixels" src="16-16-ponies/Granny Smith (Young).png"><br><img class="pixels scale400" src="16-16-ponies/Granny Smith (Young).png">\
 <br>  Granny Smith (Young)\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Kerfuffle.gif"><br><img class="pixels scale400" src="16-16-ponies/Kerfuffle.gif">\
+<img class="pixels" src="16-16-ponies/Kerfuffle.png"><br><img class="pixels scale400" src="16-16-ponies/Kerfuffle.png">\
 <br>  Kerfuffle\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/lightning dust.gif"><br><img class="pixels scale400" src="16-16-ponies/lightning dust.gif">\
+<img class="pixels" src="16-16-ponies/lightning dust.png"><br><img class="pixels scale400" src="16-16-ponies/lightning dust.png">\
 <br>  Lightning Dust\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Meadowbrook.gif"><br><img class="pixels scale400" src="16-16-ponies/Meadowbrook.gif">\
+<img class="pixels" src="16-16-ponies/Meadowbrook.png"><br><img class="pixels scale400" src="16-16-ponies/Meadowbrook.png">\
 <br>  Meadowbrook\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Mistmane (Old).gif"><br><img class="pixels scale400" src="16-16-ponies/Mistmane (Old).gif">\
+<img class="pixels" src="16-16-ponies/Mistmane (Old).png"><br><img class="pixels scale400" src="16-16-ponies/Mistmane (Old).png">\
 <br>  Mistmane (Old)\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Mistmane (Young).gif"><br><img class="pixels scale400" src="16-16-ponies/Mistmane (Young).gif">\
+<img class="pixels" src="16-16-ponies/Mistmane (Young).png"><br><img class="pixels scale400" src="16-16-ponies/Mistmane (Young).png">\
 <br>  Mistmane (Young)\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Mr Cake.gif"><br><img class="pixels scale400" src="16-16-ponies/Mr Cake.gif">\
+<img class="pixels" src="16-16-ponies/Mr Cake.png"><br><img class="pixels scale400" src="16-16-ponies/Mr Cake.png">\
 <br>  Mr Cake\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Nightmare Moon (Alpha).gif"><br><img class="pixels scale400" src="16-16-ponies/Nightmare Moon (Alpha).gif">\
+<img class="pixels" src="16-16-ponies/Nightmare Moon (Alpha).png"><br><img class="pixels scale400" src="16-16-ponies/Nightmare Moon (Alpha).png">\
 <br>  Nightmare Moon (Alpha)\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Nightmare Moon.gif"><br><img class="pixels scale400" src="16-16-ponies/Nightmare Moon.gif">\
+<img class="pixels" src="16-16-ponies/Nightmare Moon.png"><br><img class="pixels scale400" src="16-16-ponies/Nightmare Moon.png">\
 <br>  Nightmare Moon\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Nurse Tenderheart.gif"><br><img class="pixels scale400" src="16-16-ponies/Nurse Tenderheart.gif">\
+<img class="pixels" src="16-16-ponies/Nurse Tenderheart.png"><br><img class="pixels scale400" src="16-16-ponies/Nurse Tenderheart.png">\
 <br>  Nurse Tenderheart\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Ocellus (Pony).gif"><br><img class="pixels scale400" src="16-16-ponies/Ocellus (Pony).gif">\
+<img class="pixels" src="16-16-ponies/Ocellus (Pony).png"><br><img class="pixels scale400" src="16-16-ponies/Ocellus (Pony).png">\
 <br>  Ocellus (Pony)\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Pacific Glow.gif"><br><img class="pixels scale400" src="16-16-ponies/Pacific Glow.gif">\
+<img class="pixels" src="16-16-ponies/Pacific Glow.png"><br><img class="pixels scale400" src="16-16-ponies/Pacific Glow.png">\
 <br>  Pacific Glow\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Petunia Petals.gif"><br><img class="pixels scale400" src="16-16-ponies/Petunia Petals.gif">\
+<img class="pixels" src="16-16-ponies/Petunia Petals.png"><br><img class="pixels scale400" src="16-16-ponies/Petunia Petals.png">\
 <br>  Petunia Petals\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Princess Erroria.gif"><br><img class="pixels scale400" src="16-16-ponies/Princess Erroria.gif">\
+<img class="pixels" src="16-16-ponies/Princess Erroria.png"><br><img class="pixels scale400" src="16-16-ponies/Princess Erroria.png">\
 <br>  Princess Erroria\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Rock Hoof.gif"><br><img class="pixels scale400" src="16-16-ponies/Rock Hoof.gif">\
+<img class="pixels" src="16-16-ponies/Rock Hoof.png"><br><img class="pixels scale400" src="16-16-ponies/Rock Hoof.png">\
 <br>  Rock Hoof\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Senior Huevos.gif"><br><img class="pixels scale400" src="16-16-ponies/Senior Huevos.gif">\
+<img class="pixels" src="16-16-ponies/Senior Huevos.png"><br><img class="pixels scale400" src="16-16-ponies/Senior Huevos.png">\
 <br>  Senior Huevos\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Silverstream.gif"><br><img class="pixels scale400" src="16-16-ponies/Silverstream.gif">\
+<img class="pixels" src="16-16-ponies/Silverstream.png"><br><img class="pixels scale400" src="16-16-ponies/Silverstream.png">\
 <br>  Silverstream\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Soarin.gif"><br><img class="pixels scale400" src="16-16-ponies/Soarin.gif">\
+<img class="pixels" src="16-16-ponies/Soarin.png"><br><img class="pixels scale400" src="16-16-ponies/Soarin.png">\
 <br>  Soarin\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Soarin (suit).gif"><br><img class="pixels scale400" src="16-16-ponies/Soarin (suit).gif">\
+<img class="pixels" src="16-16-ponies/Soarin (suit).png"><br><img class="pixels scale400" src="16-16-ponies/Soarin (suit).png">\
 <br>  Soarin (Suit)\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Somnambula.gif"><br><img class="pixels scale400" src="16-16-ponies/Somnambula.gif">\
+<img class="pixels" src="16-16-ponies/Somnambula.png"><br><img class="pixels scale400" src="16-16-ponies/Somnambula.png">\
 <br>  Somnambula\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Spitfire.gif"><br><img class="pixels scale400" src="16-16-ponies/Spitfire.gif">\
+<img class="pixels" src="16-16-ponies/Spitfire.png"><br><img class="pixels scale400" src="16-16-ponies/Spitfire.png">\
 <br>  Spitfire\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Spitfire (Suit).gif"><br><img class="pixels scale400" src="16-16-ponies/Spitfire (Suit).gif">\
+<img class="pixels" src="16-16-ponies/Spitfire (Suit).png"><br><img class="pixels scale400" src="16-16-ponies/Spitfire (Suit).png">\
 <br>  Spitfire (Suit)\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Torque Wrench.gif"><br><img class="pixels scale400" src="16-16-ponies/Torque Wrench.gif">\
+<img class="pixels" src="16-16-ponies/Torque Wrench.png"><br><img class="pixels scale400" src="16-16-ponies/Torque Wrench.png">\
 <br>  Torque Wrench\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Yonna (Pony).gif"><br><img class="pixels scale400" src="16-16-ponies/Yonna (Pony).gif">\
+<img class="pixels" src="16-16-ponies/Yonna (Pony).png"><br><img class="pixels scale400" src="16-16-ponies/Yonna (Pony).png">\
 <br>  Yonna (Pony)\
 </div>\
-<br> Total count: 136\
+<br> Total count: 135\
 ');
