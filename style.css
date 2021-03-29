@@ -251,3 +251,27 @@ font: initial !important;}
 
 .goleft {text-align: right;
 }
+
+
+
+//Alignement stuff.
+//Define the width in place with style="width: ??%"
+
+    div.Outer {
+        width: 350px;
+        position: relative;
+        clear: both;
+        }
+
+        div.InnerLeft {
+        width: 49%;
+        position: relative;       
+        float: left;
+        }
+
+        div.InnerRight {
+        width: 49%;
+        position: relative;      
+        float: right;
+        }
+

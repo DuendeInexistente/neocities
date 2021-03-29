@@ -1,22 +1,30 @@
-(Taken from git log. Dates when stuff was added are imprecise as a result.)
+  -Sun Mar 28 21:09:29 2021
+  -Gave Tenor a friend
+  -Fixed Sunny's and Pipp's swapped names
+  -Renamed Senior Huevos to his rightful name of Señorrrrrr huevos, Praise the Ñ, aleluya, even though I fully expect javascript to shit itself trying to parse an ñ
+  -Fixed the thing where javascript shat itself trying to parse an ñ
+  -worth it tbh
+A:/16-16-pinkamena-bloody.png
 
 
+
+(Everything before this is taken from a git log. Dates when stuff was added are imprecise as a result.)
   -Fri Mar 26 23:36:46 2021
   -Added ponies
   -Also optimized the pics, replaced gifs with pngs as a commenter suggested
-A	flags/16-16-ponies/Flam.gif
-A	flags/16-16-ponies/Flim.gif
-A	flags/16-16-ponies/G5/Hitch.gif
-A	flags/16-16-ponies/G5/Zipp Storm.gif
-A	flags/16-16-ponies/Kerfuffle.gif
-A	flags/16-16-ponies/Mr Cake.gif
-A	flags/16-16-ponies/Nurse Tenderheart.gif
-A	flags/16-16-ponies/OCs/16-16-16px scruffy-scruffingston.gif
-A	flags/16-16-ponies/OCs/Jar.gif
-A	flags/16-16-ponies/OCs/Trollface.gif
-A	flags/16-16-ponies/Petunia Petals.gif
-A	flags/16-16-ponies/Senior Huevos.gif
-A	flags/16-16-ponies/Torque Wrench.gif
+A:/Flam.gif
+A:/Flim.gif
+A:/G5/Hitch.gif
+A:/G5/Zipp Storm.gif
+A:/Kerfuffle.gif
+A:/Mr Cake.gif
+A:/Nurse Tenderheart.gif
+A:/OCs/16-16-16px scruffy-scruffingston.gif
+A:/OCs/Jar.gif
+A:/OCs/Trollface.gif
+A:/Petunia Petals.gif
+A:/Senior Huevos.gif
+A:/Torque Wrench.gif
 
   -Sun Mar 7 22:41:54 2021
   -Added more ponies
@@ -140,6 +148,8 @@ A:/lightning dust.gif
 
   -Sat Mar 6 02:25:12 2021:
   -Added ponies, made a script to slice pics more easily (That's what the slicing folder in the zip is)
+  -Had tea and crumpets with Tenor
+  -It was very nice
 A:/Angel Wings.gif
 A:/Fleetfoot (Suit).gif
 A:/Fleetfoot.gif
