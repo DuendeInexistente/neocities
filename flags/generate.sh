@@ -441,4 +441,5 @@ rm grandtotal.html
 montage 16-16-ponies/*.png 16-16-ponies/*/*.png 16-16-ponies/*/*/*.png -mode concatenate -background none atlasfull.png
 optipng atlasfull.png
 
+sed -i -e 's/ñ/\\u00f1/g' canon.js
 ./download.sh

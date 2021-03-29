@@ -1,7 +1,7 @@
 document.write('\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/17-32-tenor.gif"><br><img class="pixels scale400" src="16-16-ponies/17-32-tenor.gif">\
-<br>  17 32 Tenor\
+<img class="pixels" src="16-16-ponies/tenor.gif"><br><img class="pixels scale400" src="16-16-ponies/tenor.gif">\
+<br>  Tenor\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/16-16-almond-joy.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-almond-joy.png">\
@@ -256,6 +256,10 @@ document.write('\
 <br>  Photo Finish\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/16-16-pinkamena-bloody.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-pinkamena-bloody.png">\
+<br>  Pinkamena Bloody\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/16-16-pinkamena.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-pinkamena.png">\
 <br>  Pinkamena\
 </div>\
@@ -504,8 +508,8 @@ document.write('\
 <br>  Rock Hoof\
 </div>\
 <div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/Senior Huevos.png"><br><img class="pixels scale400" src="16-16-ponies/Senior Huevos.png">\
-<br>  Senior Huevos\
+<img class="pixels" src="16-16-ponies/Se\u00f1or Huevos.png"><br><img class="pixels scale400" src="16-16-ponies/Se\u00f1or Huevos.png">\
+<br>  Se\u00f1or Huevos\
 </div>\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Silverstream.png"><br><img class="pixels scale400" src="16-16-ponies/Silverstream.png">\
@@ -539,5 +543,5 @@ document.write('\
 <img class="pixels" src="16-16-ponies/Yonna (Pony).png"><br><img class="pixels scale400" src="16-16-ponies/Yonna (Pony).png">\
 <br>  Yonna (Pony)\
 </div>\
-<br> Total count: 135\
+<br> Total count: 136\
 ');

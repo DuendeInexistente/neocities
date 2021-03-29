@@ -1,0 +1,231 @@
+(Taken from git log. Dates when stuff was added are imprecise as a result.)
+
+
+  -Fri Mar 26 23:36:46 2021
+  -Added ponies
+  -Also optimized the pics, replaced gifs with pngs as a commenter suggested
+A	flags/16-16-ponies/Flam.gif
+A	flags/16-16-ponies/Flim.gif
+A	flags/16-16-ponies/G5/Hitch.gif
+A	flags/16-16-ponies/G5/Zipp Storm.gif
+A	flags/16-16-ponies/Kerfuffle.gif
+A	flags/16-16-ponies/Mr Cake.gif
+A	flags/16-16-ponies/Nurse Tenderheart.gif
+A	flags/16-16-ponies/OCs/16-16-16px scruffy-scruffingston.gif
+A	flags/16-16-ponies/OCs/Jar.gif
+A	flags/16-16-ponies/OCs/Trollface.gif
+A	flags/16-16-ponies/Petunia Petals.gif
+A	flags/16-16-ponies/Senior Huevos.gif
+A	flags/16-16-ponies/Torque Wrench.gif
+
+  -Sun Mar 7 22:41:54 2021
+  -Added more ponies
+  -Added sideways box
+A:/16-16-jinx.gif
+A:/16-16-plot.gif
+A:/Cozy Glow (Demon).gif
+A:/EqG/Jupiter Montage.gif
+A:/EqG/Norman Normal.gif
+A:/EqG/Vignette.gif
+A:/G5/(Square) 16-16-izzy-moonbow.gif
+A:/G5/(Square) 16-16-pipp-petal.gif
+A:/G5/(Square) 16-16-sunny-starscout.gif
+A:/G5/(Square) hitch.gif
+A:/G5/(Square) zipp storm.gif
+A:/G5/Izzy Moonbow.gif
+A:/G5/Pipp Petal.gif
+A:/G5/Sunny Starscout.gif
+A:/OCs/16-16 scruffy-scruffingston.gif
+A:/OCs/16px blackjack.gif
+A:/OCs/Senior Huevos.gif
+A:/PL/Octavio Pie (Style accurate).gif
+A:/PL/Potion Nova (Style accurate).gif
+A:/Sideways/Anonfilly.gif
+A:/Sideways/Applebloom.gif
+A:/Sideways/Applejack.gif
+A:/Sideways/Aryanne.gif
+A:/Sideways/Bon Bon.gif
+A:/Sideways/Cadance.gif
+A:/Sideways/Celestia.gif
+A:/Sideways/Cheerilee.gif
+A:/Sideways/Cozy Glow.gif
+A:/Sideways/Derpy Hooves.gif
+A:/Sideways/Fleur De Lis.gif
+A:/Sideways/Fluttershy.gif
+A:/Sideways/Lauren Faust.gif
+A:/Sideways/Luna.gif
+A:/Sideways/Lyra Heartstrings.gif
+A:/Sideways/Pinkie Pie.gif
+A:/Sideways/Rainbow Dash.gif
+A:/Sideways/Raripunk.png
+A:/Sideways/Rarity.gif
+A:/Sideways/Scootaloo.gif
+A:/Sideways/Screwball.gif
+A:/Sideways/Starlight Glimmer.gif
+A:/Sideways/Sweetie Belle.gif
+A:/Sideways/Trixie Lulamoon.gif
+A:/Sideways/Twilight Sparkle.gif
+A:/misc/flags/equestria 2.gif
+
+  -Sat Mar 6 22:04:25 2021
+  -Minimal pic changes to ensure they don't break the tiler
+  -Added G1 box
+A:/16-16-sunburst.gif
+A:/Flash Magnus.gif
+A:/G1/16px danny williams.gif
+A:/G1/16px megan williams.gif
+A:/G1/16px molly williams.gif
+A:/G5/16-16-pipp-petal.gif
+A:/G5/hitch.gif
+A:/Meadowbrook.gif
+A:/Mistmane (Old).gif
+A:/Mistmane (Young).gif
+A:/OCs/16-16-apathia.gif
+A:/OCs/16-16-apogee.gif
+A:/OCs/16-16-dissentia.gif
+A:/OCs/16px night star.gif
+A:/Rock Hoof.gif
+A:/Sideways Applejack.gif
+A:/Sideways Aryanne.gif
+A:/Sideways Fluttershy.gif
+A:/Sideways Pinkie Pie.gif
+A:/Sideways Rainbow Dash.gif
+A:/Sideways Rarity.gif
+A:/Sideways Twilight Sparkle.gif
+A:/Somnambula.gif
+
+  -Sat Mar 6 16:25:53
+  -Finished tiler/atlas
+A:/Big Brian.gif
+A:/misc/flags/bigones/appleloosa big.gif
+A:/misc/flags/bigones/cloudsdale big.gif
+A:/misc/flags/bigones/crystal kingdom big.gif
+A:/misc/flags/bigones/cutie mark crusaders 2 big.gif
+A:/misc/flags/bigones/cutie mark crusaders big.gif
+A:/misc/flags/bigones/equestria big.gif
+A:/misc/flags/bigones/griffons big.gif
+A:/misc/flags/bigones/ponyville big.gifr/atlas
+
+  -Sat Mar 6 16:08:41 2021
+  -Added counter
+  -Gave up on tiler/atlas
+A:/Daybreaker.gif
+A:/Granny Smith (Young).gif
+A:/Granny Smith.gif
+A:/Nightmare Moon (Alpha).gif
+A:/Nightmare Moon.gif
+
+  -Sat Mar 6 12:43:56 2021
+A:/Babs Seed.gif
+A:/Cheese sandwich.gif
+A:/Fancy pants.gif
+A:/Fleur de lis.gif
+
+  -Sat Mar 6 11:26:51 2021
+  -Added ponies, was working on the tiler/atlas
+A:/Ocellus (Pony).gif
+A:/Pacific Glow.gif
+A:/Silverstream.gif
+A:/Yonna (Pony).gi
+
+  -Sat Mar 6 10:59:48 2021
+M:/OCs/16-16-nyx.gif
+A:/lightning dust.gif
+
+  -Sat Mar 6 04:22:24 2021
+  -Slicing was accidentally breaking erroria lmao ( https://files.catbox.moe/oo2oaj.mp4 )
+
+  -Sat Mar 6 03:53:37 2021
+  -Fixed Meno, added downloads
+
+  -Sat Mar 6 02:25:12 2021:
+  -Added ponies, made a script to slice pics more easily (That's what the slicing folder in the zip is)
+A:/Angel Wings.gif
+A:/Fleetfoot (Suit).gif
+A:/Fleetfoot.gif
+A:/Princess Erroria.gif
+A:/Soarin (suit).gif
+A:/Soarin.gif
+A:/Spitfire (Suit).gif
+A:/Spitfire.gif
+
+
+
+
+  -Sat Mar 6 00:11:29 2021:
+  -A ton of changes to the html, added uncentered versions
+  -HTML tweaks. 
+A:/16-16-almond-joy.gif
+A:/16-16-apple-brown-betty.gif
+A:/16-16-apple-bumpkin.gif
+A:/16-16-apple-fritter.gif
+A:/16-16-apple-leaves.gif
+A:/16-16-candy-apples.gif
+A:/16-16-changeling-metamorphosed.gif
+A:/16-16-changeling.gif
+A:/16-16-cloud-chaser.gif
+A:/16-16-cloud-kicker.gif
+A:/16-16-flitter.gif
+A:/16-16-jem-cosplayer.gif
+A:/16-16-lemon-hearts.gif
+A:/16-16-meno-amare.gif
+A:/16-16-minty-apple.gif
+A:/16-16-parasprite.gif
+A:/16-16-pharynx-metamorphosed.gif
+A:/16-16-pharynx.gif
+A:/16-16-photo-finish.gif
+A:/16-16-pinkamena.gif
+A:/16-16-star-dancer.gif
+A:/16-16-thorax-metamorphosed.gif
+A:/16-16-thorax.gif
+A:/16-16-twinkleshine.gif
+A:/EqG/16-16-adagio-dazzle-pony.gif
+A:/EqG/16-16-adagio-dazzle-siren.gif
+A:/EqG/16-16-adagio-dazzle-unicorn.gif
+A:/EqG/16-16-aria-blaze-pony.gif
+A:/EqG/16-16-aria-blaze-siren.gif
+A:/EqG/16-16-sonata-dusk-pony.gif
+A:/EqG/16-16-sonata-dusk-siren.gif
+A:/EqG/16-16-sunset-shimmer-pony.gif
+A:/G5/16-16-izzy-moonbow.gif
+A:/G5/16-16-pipp.gif
+A:/G5/16-16-sunny-starscout.gif
+A:/MLPTales/16-16-bon-bon.gif
+A:/MLPTales/16-16-bright-eyes.gif
+A:/MLPTales/16-16-clover.gif
+A:/MLPTales/16-16-fizzy.gif
+A:/MLPTales/16-16-galaxy.gif
+A:/MLPTales/16-16-gusty.gif
+A:/MLPTales/16-16-majesty.gif
+A:/MLPTales/16-16-melody.gif
+A:/MLPTales/16-16-patch.gif
+A:/MLPTales/16-16-starlight.gif
+A:/MLPTales/16-16-sweetheart.gif
+A:/MLPTales/16-16-twilight.gif
+A:/OCs/16-16-anon.gif
+A:/OCs/16-16-barneyflag.gif
+A:/OCs/16-16-fausticorn.gif
+A:/PL/16-16-potion-nova.gif
+A:/misc/16-16-missingno.gif
+A:/misc/flags/Canterlot.gif
+A:/misc/flags/appleloosa big.gif
+A:/misc/flags/appleloosa.gif
+A:/misc/flags/cloudsdale big.gif
+A:/misc/flags/cloudsdale.gif
+A:/misc/flags/crystal kingdom big.gif
+A:/misc/flags/crystal kingdom.gif
+A:/misc/flags/cutie mark crusaders 2 big.gif
+A:/misc/flags/cutie mark crusaders 2.gif
+A:/misc/flags/cutie mark crusaders big.gif
+A:/misc/flags/cutie mark crusaders square.gif
+A:/misc/flags/cutie mark crusaders.gif
+A:/misc/flags/equestria big.gif
+A:/misc/flags/equestria.gif
+A:/misc/flags/griffins.gif
+A:/misc/flags/griffons big.gif
+A:/misc/flags/ponyville big.gif
+A:/misc/flags/ponyville.gif
+A:/misc/flags/ponyville.png
+A:flags/16-16-star-dancer.gif
+A:flags/16-16-star-meno-amare.gif
+A:flags/MLPTales.js
