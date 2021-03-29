@@ -338,7 +338,6 @@ echo '<br> Total count:' $suma >>$thecutest.html
 rm $thecutest.html
 echo -------------------------------------------------
 
-
 let "sumatotal+=suma"
 echo $sumatotal
 
@@ -363,14 +362,14 @@ repeat 10 local whosasillypony=${whosasillypony/cutie marks/CM\/}
 repeat 10 local whosasillypony=${whosasillypony/.gif/}
 repeat 10 local whosasillypony=${whosasillypony/.png/}
 
-echo \<div class=\"frame smallframe bg\"\> >> $thecutesafefilename.html
-echo \<img class=\"pixels\" src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutesafefilename.html
-echo \<br\> ${(C)whosasillypony} >> $thecutesafefilename.html
+echo '<div class="frame smallframe bg">' >> $thecutesafefilename.html
+echo '<img class="pixels" src="'$file'"><br><img class="pixels scale400" src="'$file'"' >> $thecutesafefilename.html
+echo '<br>' ${(C)whosasillypony} >> $thecutestfilename.html
 echo \<\/div\> >> $thecutesafefilename.html
 let "suma+=1"
 done
 
-echo \<br\> Total count: $suma >>$thecutesafefilename.html
+echo '<br> Total count:' $suma >>$thecutesafefilename.html
 ./convert.sh $thecutesafefilename.html
 rm $thecutesafefilename.html
 
@@ -399,10 +398,10 @@ repeat 10 local whosasillypony=${whosasillypony/flags/F\/}
 repeat 10 local whosasillypony=${whosasillypony/.gif/}
 repeat 10 local whosasillypony=${whosasillypony/.png/}
 
-echo \<div class=\"frame smallframe bg\"\> >> $thecutesafefilename.html
-echo \<img class=\"pixels\" src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutesafefilename.html
-echo \<br\> ${(C)whosasillypony} >> $thecutesafefilename.html
-echo \<\/div\> >>$thecutesafefilename.html
+echo '<div class="frame smallframe bg">' >> $thecutesafefilename.html
+echo '<img class="pixels" src="'$file'"><br><img class="pixels scale400" src="'$file'"' >> $thecutesafefilename.html
+echo '<br>' ${(C)whosasillypony} >> $thecutestfilename.html
+echo \<\/div\> >> $thecutesafefilename.html
 let "suma+=1"
 done
 
@@ -422,10 +421,11 @@ repeat 10 local whosasillypony=${whosasillypony/flags/F\/}
 repeat 10 local whosasillypony=${whosasillypony/.gif/}
 repeat 10 local whosasillypony=${whosasillypony/.png/}
 
-echo \<div class=\"frame smallframe bg\"\> >> $thecutesafefilename.html
-echo \<img class=\"pixels\" src=\"$file\"\>\<br\>\<img class=\"pixels scale400\" src=\"$file\"\> >> $thecutesafefilename.html
-echo \<br\> ${(C)whosasillypony} >> $thecutesafefilename.html
-echo \<\/div\> >>$thecutesafefilename.html
+echo '<div class="frame smallframe bg">' >> $thecutesafefilename.html
+echo '<img class="pixels" src="'$file'"><br><img class="pixels scale400" src="'$file'"' >> $thecutesafefilename.html
+
+echo '<br>' ${(C)whosasillypony} >> $thecutesafefilename.html
+echo \<\/div\> >> $thecutesafefilename.html
 let "suma+=1"
 done
 
@@ -437,8 +437,7 @@ rm $thecutesafefilename.html
 let "sumatotal+=suma"
 echo $sumatotal
 
-echo '<div class="InnerRight" ><div class="titleframe" style="width:85%">312<br><div class="normal">total flags</div><img src=atlasfull.png></div></div>' > grandtotal.html
-
+echo \<div class=\"titleframe\"\>$sumatotal\<br\>\<div class=\"normal\"\>total flags\<\/div\>\<img src=atlasfull.png\>\<\/div\> > grandtotal.html
 ./convert.sh grandtotal.html
 rm grandtotal.html
 montage 16-16-ponies/*.png 16-16-ponies/*/*.png 16-16-ponies/*/*/*.png -mode concatenate -background none atlasfull.png
