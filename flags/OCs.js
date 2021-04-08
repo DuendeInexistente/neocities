@@ -99,5 +99,9 @@ document.write('\
 <img class="pixels" src="16-16-ponies/OCs/Trollface.png"><br><img class="pixels scale400" src="16-16-ponies/OCs/Trollface.png">\
 <br> Trollface\
 </div>\
-<br> Total count: 25\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/trollface-scary.png"><br><img class="pixels scale400" src="16-16-ponies/OCs/trollface-scary.png">\
+<br> Trollface Scary\
+</div>\
+<br> Total count: 26\
 ');

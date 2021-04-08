@@ -35,7 +35,7 @@ rm $thecutest.html
 echo -------------------------------------------------
 
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 
 local suma=0
 local thecutest=TFH
@@ -71,7 +71,7 @@ rm $thecutest.html
 echo -------------------------------------------------
 
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 
 local suma=0
 local thecutest=Sideways
@@ -105,7 +105,7 @@ rm $thecutest.html
 
 echo -------------------------------------------------
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 
 local suma=0
 local thecutest=MLPTales
@@ -138,7 +138,7 @@ rm $thecutest.html
 
 echo -------------------------------------------------
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 local suma=0
 local thecutest=EqG
 rm $thecutest.html
@@ -170,7 +170,7 @@ rm $thecutest.html
 
 echo -------------------------------------------------
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 
 local suma=0
 local thecutest=OCs
@@ -203,7 +203,7 @@ rm $thecutest.html
 
 echo -------------------------------------------------
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 
 local suma=0
 local thecutest=G5
@@ -236,7 +236,7 @@ rm $thecutest.html
 
 echo -------------------------------------------------
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 
 local suma=0
 local thecutest=G1
@@ -269,7 +269,7 @@ rm $thecutest.html
 
 echo -------------------------------------------------
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 
 local suma=0
 local thecutest=PL
@@ -304,7 +304,7 @@ rm $thecutest.html
 
 echo -------------------------------------------------
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 
 local suma=0
 local thecutest=misc
@@ -340,7 +340,7 @@ echo -------------------------------------------------
 
 
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 
 local suma=0
 local thecutest=misc/cutie-marks
@@ -377,7 +377,7 @@ rm $thecutesafefilename.html
 
 echo -------------------------------------------------
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 local suma=0
 local thecutest=misc/flags
 local thecutesafefilename=${thecutest/\//-}
@@ -435,9 +435,9 @@ rm $thecutesafefilename.html
 
 
 let "sumatotal+=suma"
-echo $sumatotal
+echo + $suma = $sumatotal
 
-echo '<div class="InnerRight" ><div class="titleframe" style="width:85%">312<br><div class="normal">total flags</div><img src=atlasfull.png></div></div>' > grandtotal.html
+echo '<div class="InnerRight" ><div class="titleframe" style="width:85%">'$sumatotal'<br><div class="normal">total flags</div><img src=atlasfull.png></div></div>' > grandtotal.html
 
 ./convert.sh grandtotal.html
 rm grandtotal.html

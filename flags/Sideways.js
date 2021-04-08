@@ -16,6 +16,10 @@ document.write('\
 <br> Aryanne\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Sideways/Big Mac.png"><br><img class="pixels scale400" src="16-16-ponies/Sideways/Big Mac.png">\
+<br> Big Mac\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Sideways/Bon Bon.png"><br><img class="pixels scale400" src="16-16-ponies/Sideways/Bon Bon.png">\
 <br> Bon Bon\
 </div>\
@@ -84,6 +88,14 @@ document.write('\
 <br> Screwball\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Sideways/Shining Armor.png"><br><img class="pixels scale400" src="16-16-ponies/Sideways/Shining Armor.png">\
+<br> Shining Armor\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/Sideways/Spike.png"><br><img class="pixels scale400" src="16-16-ponies/Sideways/Spike.png">\
+<br> Spike\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/Sideways/Starlight Glimmer.png"><br><img class="pixels scale400" src="16-16-ponies/Sideways/Starlight Glimmer.png">\
 <br> Starlight Glimmer\
 </div>\
@@ -99,5 +111,5 @@ document.write('\
 <img class="pixels" src="16-16-ponies/Sideways/Twilight Sparkle.png"><br><img class="pixels scale400" src="16-16-ponies/Sideways/Twilight Sparkle.png">\
 <br> Twilight Sparkle\
 </div>\
-<br> Total count: 25\
+<br> Total count: 28\
 ');

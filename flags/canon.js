@@ -156,6 +156,14 @@ document.write('\
 <br>  Gilda\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/16-16-iron-will-headset.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-iron-will-headset.png">\
+<br>  Iron Will Headset\
+</div>\
+<div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/16-16-iron-will.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-iron-will.png">\
+<br>  Iron Will\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/16-16-jem-cosplayer.png"><br><img class="pixels scale400" src="16-16-ponies/16-16-jem-cosplayer.png">\
 <br>  Jem Cosplayer\
 </div>\
@@ -543,5 +551,5 @@ document.write('\
 <img class="pixels" src="16-16-ponies/Yonna (Pony).png"><br><img class="pixels scale400" src="16-16-ponies/Yonna (Pony).png">\
 <br>  Yonna (Pony)\
 </div>\
-<br> Total count: 136\
+<br> Total count: 138\
 ');

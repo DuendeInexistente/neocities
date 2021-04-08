@@ -12,6 +12,10 @@ document.write('\
 <br>  F/Cloudsdale\
 </div>\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/misc/flags/commie-glimmer.png"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/commie-glimmer.png">\
+<br>  F/Commie Glimmer\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/misc/flags/crystal kingdom.png"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/crystal kingdom.png">\
 <br>  F/Crystal Kingdom\
 </div>\
@@ -87,5 +91,5 @@ document.write('\
 <img class="pixels" src="16-16-ponies/misc/flags/bigones/ponyville big.png"><br><img class="pixels scale400" src="16-16-ponies/misc/flags/bigones/ponyville big.png">\
 <br>  F/Ponyville Big\
 </div>\
-<br> Total count: 22\
+<br> Total count: 23\
 ');
