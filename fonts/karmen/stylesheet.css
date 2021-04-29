@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Karmen regular';
+    src: url('Karmen-Regular.eot');
+    src: url('Karmen-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Karmen-Regular.woff2') format('woff2'),
+        url('Karmen-Regular.woff') format('woff'),
+        url('Karmen-Regular.ttf') format('truetype'),
+        url('Karmen-Regular.svg#Karmen-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karmen lightitalic';
+    src: url('Karmen-LightItalic.eot');
+    src: url('Karmen-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Karmen-LightItalic.woff2') format('woff2'),
+        url('Karmen-LightItalic.woff') format('woff'),
+        url('Karmen-LightItalic.ttf') format('truetype'),
+        url('Karmen-LightItalic.svg#Karmen-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karmen light';
+    src: url('Karmen-Light.eot');
+    src: url('Karmen-Light.eot?#iefix') format('embedded-opentype'),
+        url('Karmen-Light.woff2') format('woff2'),
+        url('Karmen-Light.woff') format('woff'),
+        url('Karmen-Light.ttf') format('truetype'),
+        url('Karmen-Light.svg#Karmen-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karmen italic';
+    src: url('Karmen-Italic.eot');
+    src: url('Karmen-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Karmen-Italic.woff2') format('woff2'),
+        url('Karmen-Italic.woff') format('woff'),
+        url('Karmen-Italic.ttf') format('truetype'),
+        url('Karmen-Italic.svg#Karmen-Italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karmen bolditalic';
+    src: url('Karmen-BoldItalic.eot');
+    src: url('Karmen-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Karmen-BoldItalic.woff2') format('woff2'),
+        url('Karmen-BoldItalic.woff') format('woff'),
+        url('Karmen-BoldItalic.ttf') format('truetype'),
+        url('Karmen-BoldItalic.svg#Karmen-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karmen bold';
+    src: url('Karmen-Bold.eot');
+    src: url('Karmen-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Karmen-Bold.woff2') format('woff2'),
+        url('Karmen-Bold.woff') format('woff'),
+        url('Karmen-Bold.ttf') format('truetype'),
+        url('Karmen-Bold.svg#Karmen-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

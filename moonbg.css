@@ -1,0 +1,9 @@
+body {
+  background-image: url("bg.png");
+  background-color: black;
+  z-index: 100;
+  position:relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+//  filter: blur(4px);
+}

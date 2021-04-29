@@ -1,0 +1,15 @@
+.colorshift {
+  animation-name: hue;
+  animation-duration: 3500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+}
+
+@keyframes hue {
+    from {
+        filter: hue-rotate(0deg);
+    }
+    to {
+        filter: hue-rotate(360deg);
+    }
+}

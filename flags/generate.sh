@@ -176,7 +176,7 @@ local suma=0
 local thecutest=OCs
 rm $thecutest.html
 
-for file in 16-16-ponies/$thecutest/*.png;do
+for file in 16-16-ponies/$thecutest/*.{gif,png};do
 
 local whosasillypony=$file
 

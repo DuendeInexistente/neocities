@@ -1,0 +1,41 @@
+.markdown-body p {
+     margin-bottom: 1 !important;
+    word-wrap: normal;
+    font-size: 16px;
+}
+
+.markdown-body pre code {
+    border-image: url(frames/framecoldblue.png) round !important;
+    border-image-slice: 30% fill !important;
+    display: block !important;
+}
+
+pre {
+    border-image: url(frames/framecoldblue.png) round !important;
+    border-image-slice: 30% fill !important;
+    display: block !important;
+    border: 6pt solid transparent;
+}
+
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+font-family: "Karmen bold";
+}
+
+
+
+.markdown-body table tr {
+    background-color: #fafed9c4;
+}
+.markdown-body table tr:nth-child(2n) {
+    background-color: #fafed9;
+}
+
+table {
+    border-color: #2e0800;
+}

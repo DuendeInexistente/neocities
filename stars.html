@@ -1,0 +1,41 @@
+<head>
+
+
+<script src="starsandbuildings.js"></script>
+
+<link href="fonts/36 days ago Thick bold/font.css" rel="stylesheet" type="text/css" media="all">
+<link href="fonts/36 days ago/font.css" rel="stylesheet" type="text/css" media="all">
+<link href="../style.css" rel="stylesheet" type="text/css" media="all">
+
+<style>
+body {
+  background-color: #0c001b;
+  background-image: none;
+}
+</style>
+</head>
+
+<body>
+
+<div  class="unselectable" style="z-index: 102; position:fixed;image-rendering:pixelated;image-rendering:crisp-edges;opacity: 60%">
+<img src="moon.png">
+</div>
+<div class="unselectable" style="z-index: 101; position:fixed; filter: blur(2px);">
+<img src="moon.png">
+</div>
+
+
+<div class="widegrid" style="position:fixed; width:100%; z-index: 50;image-rendering:pixelated;image-rendering:crisp-edges;">
+<script type="text/javascript">  for (var i = 0; i < 4000; i++) {
+    document.write(getImageTag() + "<br><br><br>");
+} </script>
+
+
+</div>
+</div>
+<div style="position:fixed;z-index: 99;bottom: 0px;left:0px; overflow:hidden;flex: max-content;display: inline-flex;align-items: flex-end;">
+<script type="text/javascript">  for (var i = 0; i < 100; i++) {
+    document.write(getbuilding());
+} </script>
+</div>
+</body>

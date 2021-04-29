@@ -1,5 +1,9 @@
 document.write('\
 <div class="frame smallframe bg">\
+<img class="pixels" src="16-16-ponies/OCs/trollface-scary.gif"><br><img class="pixels scale400" src="16-16-ponies/OCs/trollface-scary.gif">\
+<br> Trollface Scary\
+</div>\
+<div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/OCs/16-16-16px scruffy-scruffingston.png"><br><img class="pixels scale400" src="16-16-ponies/OCs/16-16-16px scruffy-scruffingston.png">\
 <br> Scruffy Scruffingston\
 </div>\
@@ -98,10 +102,6 @@ document.write('\
 <div class="frame smallframe bg">\
 <img class="pixels" src="16-16-ponies/OCs/Trollface.png"><br><img class="pixels scale400" src="16-16-ponies/OCs/Trollface.png">\
 <br> Trollface\
-</div>\
-<div class="frame smallframe bg">\
-<img class="pixels" src="16-16-ponies/OCs/trollface-scary.png"><br><img class="pixels scale400" src="16-16-ponies/OCs/trollface-scary.png">\
-<br> Trollface Scary\
 </div>\
 <br> Total count: 26\
 ');

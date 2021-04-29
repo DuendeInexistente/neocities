@@ -25,6 +25,7 @@ body {
   text-align: center;
   z-index: 100;
   position:relative;
+font-size: 16px;
 }
 
 .titleframe {
@@ -35,7 +36,7 @@ body {
   color: #2e0800;
   margin: auto;
   border: 1vw solid transparent;
-  border-image: url(frame.png) round;
+  border-image: url(frames/frame.png) round;
   border-image-slice: 30% fill;
   font-weight: bold;
   font-size:5vw;
@@ -50,7 +51,7 @@ body {
     color: #2e0800;
     margin: auto;
     border: 6pt solid transparent;
-    border-image: url(frame.png) round;
+    border-image: url(frames/frame.png) round;
     border-image-slice: 30% fill;
     font-size: 9pt;
     position: absolute;
@@ -66,7 +67,7 @@ body {
     color: #2e0800;
     margin: auto;
     border: 6pt solid transparent;
-    border-image: url(frame.png) round;
+    border-image: url(frames/frame.png) round;
     border-image-slice: 30% fill;
     font-size: 9pt;
     position: absolute;
@@ -85,7 +86,7 @@ body {
 //    background-color: #f8f8c8;
     margin: auto;
     border: 8pt solid transparent;
-    border-image: url(frame.png) round;
+    border-image: url(frames/frame.png) round;
     border-image-slice: 30% fill;
     font-size: 11pt;
     z-index: 100;
@@ -130,7 +131,7 @@ div.gallery_item {
  //   height: 100px;
  //   background-color: grey;
     border: 8pt solid transparent;
-    border-image: url(frame.png) round;
+    border-image: url(frames/frame.png) round;
     border-image-slice: 30% fill;
     display: block;
  //   min-height: 350px;
@@ -145,7 +146,7 @@ div.gallery_item {
 
 .caption {
     border: 8pt solid transparent;
-    border-image: url(framecp2.png) round;
+    border-image: url(frames/framecp2.png) round;
     border-image-slice: 30% fill;
 //    color: #071821;
     display: block;
@@ -178,7 +179,7 @@ image-rendering: crisp-edges;
     height: 150%;
     color: #2e0800;
     border: 6pt solid transparent;
-    border-image: url(framebg.png) round;
+    border-image: url(frames/framebg.png) round;
     border-image-slice: 30% fill;
     font-size: 9pt;
     position: fixed;
@@ -193,7 +194,7 @@ image-rendering: crisp-edges;
     color: #2e0800;
     margin: auto;
     border: 6pt solid transparent;
-    border-image: url(framebg.png) round;
+    border-image: url(frames/framebg.png) round;
     border-image-slice: 30% fill;
     font-size: 9pt;
     position: fixed;
@@ -213,19 +214,58 @@ opacity: 0.4;
 
 
 .green {
-    border-image: url(framecp.png) round;
+    border-image: url(frames/framecp.png) round;
     border-image-slice: 30% fill;
     display: block;
 }
 
 .silver {
-    border-image: url(framesv.png) round;
+    border: 6pt solid transparent;
+    border-image: url(frames/framesv.png) round;
+    border-image-slice: 30% fill;
+    display: block;
+
+}
+
+.framebg {
+    border-image: url(frames/frames/framebg.png) round;
+    border-image-slice: 30% fill;
+    display: block;
+}
+
+.framebgsv {
+    border-image: url(frames/framebgsv.png) round;
+    border-image-slice: 30% fill;
+    display: block;
+}
+
+.framered {
+    border-image: url(frames/frameblue.png) round;
+    border-image-slice: 30% fill;
+    display: block;
+}
+
+.frameblue {
+    border-image: url(frames/frameblue.png) round;
+    border-image-slice: 30% fill;
+    display: block;
+}
+
+.squareframe {
+border: 12pt solid transparent;
+    border-image: url(frames/squareframe.png) round;
+    border-image-slice: 30% fill;
+    display: block;
+}
+.squareframedark {
+border: 12pt solid transparent;
+    border-image: url(frames/squareframedark.png) round;
     border-image-slice: 30% fill;
     display: block;
 }
 
 .bg {
-    border-image: url(framebg.png) round;
+    border-image: url(frames/framebg.png) round;
     border-image-slice: 30% fill;
     display: block;
     color: #e6aca0;
@@ -245,14 +285,32 @@ opacity: 0.4;
   grid-auto-rows: auto;
 }
 
+
+.widegrid {
+display: grid !important;
+grid-template-columns: repeat(auto-fill, minmax(0px, 2fr));
+grid-column-gap: 15px;
+grid-row-gap: 15px;
+}
+
 .normal {
 font-size:10pt;
 font: initial !important;}
 
-.goleft {text-align: right;
+.goleft {text-align: left;
 }
 
+.goright {text-align: right;
+}
 
+.unselectable {
+user-drag: none; 
+user-select: none;
+-moz-user-select: none;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
 
 //Alignement stuff.
 //Define the width in place with style="width: ??%"
@@ -279,3 +337,10 @@ font: initial !important;}
 details[open] {
 height:70%
 ;}
+
+
+ .MPArticles {
+  width:60%;
+  z-index: 105;
+  max-width:1050px;
+}

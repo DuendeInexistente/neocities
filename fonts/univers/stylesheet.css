@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Univers LT ThinUltraCondensed';
+    src: url('UniversLT-ThinUltraCondensed.eot');
+    src: url('UniversLT-ThinUltraCondensed.eot?#iefix') format('embedded-opentype'),
+        url('UniversLT-ThinUltraCondensed.woff2') format('woff2'),
+        url('UniversLT-ThinUltraCondensed.woff') format('woff'),
+        url('UniversLT-ThinUltraCondensed.ttf') format('truetype'),
+        url('UniversLT-ThinUltraCondensed.svg#UniversLT-ThinUltraCondensed') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers LT UltraCondensed';
+    src: url('UniversLT-UltraCondensed.eot');
+    src: url('UniversLT-UltraCondensed.eot?#iefix') format('embedded-opentype'),
+        url('UniversLT-UltraCondensed.woff2') format('woff2'),
+        url('UniversLT-UltraCondensed.woff') format('woff'),
+        url('UniversLT-UltraCondensed.ttf') format('truetype'),
+        url('UniversLT-UltraCondensed.svg#UniversLT-UltraCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Univers LT LightUltraCondensed';
+    src: url('UniversLT-LightUltraCondensed.eot');
+    src: url('UniversLT-LightUltraCondensed.eot?#iefix') format('embedded-opentype'),
+        url('UniversLT-LightUltraCondensed.woff2') format('woff2'),
+        url('UniversLT-LightUltraCondensed.woff') format('woff'),
+        url('UniversLT-LightUltraCondensed.ttf') format('truetype'),
+        url('UniversLT-LightUltraCondensed.svg#UniversLT-LightUltraCondensed') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
