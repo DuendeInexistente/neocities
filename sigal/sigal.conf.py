@@ -269,7 +269,7 @@ plugins = [
 #     'sigal.plugins.extended_caching',
      'sigal.plugins.feeds',
      'sigal.plugins.media_page',
-#     'sigal.plugins.nomedia',
+     'sigal.plugins.nomedia',
 #     'sigal.plugins.upload_s3',
 #     'sigal.plugins.watermark',
 #     'sigal.plugins.zip_gallery',
@@ -313,5 +313,5 @@ zip_media_format = 'orig'  # 'resized' or 'orig'
 # already present. Warning: new photos in an album won't be added to archive
 
 
-rss_feed = {'feed_url': 'http://example.org/feed.rss', 'nb_items': 10}
-atom_feed = {'feed_url': 'http://example.org/feed.atom', 'nb_items': 10}
+rss_feed = {'feed_url': 'https://duendeinexistente.neocities.org/sigal/_build/feed.rss', 'nb_items': 40}
+atom_feed = {'feed_url': 'https://duendeinexistente.neocities.org/sigal/_build/feed.atom', 'nb_items': 40}

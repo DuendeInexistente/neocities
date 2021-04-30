@@ -18,3 +18,11 @@
 .fastshift {
   animation-duration: 900ms;
 }
+
+
+asdasd.album_thumb {
+  animation-name: hue;
+  animation-duration: 3500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+  }

@@ -2,11 +2,29 @@
 @import url("../../../hueshift.css");
 
 
+
 .album_thumb {
     border: 8pt solid transparent;
     border-image: url(../../../frames/framecp.png) round;
     border-image-slice: 30% fill;
 }
+
+
+.thumbnail img {
+    border: 8pt solid transparent;
+    border-image: url(../../../frames/framecp.png) round;
+    border-image-slice: 30% fill;
+    box-shadow: none;
+}
+
+
+/*.album_thumb { 
+    border: 8pt solid transparent !important;
+    border-image-slice: 30% fill !important;
+    box-shadow: none;
+border-image: url(../../../frames/framefolder.png) round !important;
+}*/
+
 
 body {
     background-image: url("Background.png");
@@ -35,12 +53,7 @@ h3 {
     font-weight: bold !important;
 }
 
-.thumbnail img {
-    border: 8pt solid transparent;
-    border-image: url(../../../frames/framecp.png) round;
-    border-image-slice: 30% fill;
-    box-shadow: none;
-}
+
 
 
 .thumbnail img:hover {
@@ -143,3 +156,4 @@ h2, h3, h4, h5, h6 {
     width: 100%;
     float: left;
 }
+
