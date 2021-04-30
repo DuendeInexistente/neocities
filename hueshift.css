@@ -13,3 +13,8 @@
         filter: hue-rotate(360deg);
     }
 }
+
+
+.fastshift {
+  animation-duration: 900ms;
+}
