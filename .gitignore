@@ -3,3 +3,8 @@
 *.mkv
 *.nope
 *.nope/*
+
+
+
+sigal/_build
+sigal/images
