@@ -313,5 +313,5 @@ zip_media_format = 'orig'  # 'resized' or 'orig'
 # already present. Warning: new photos in an album won't be added to archive
 
 
-rss_feed = {'feed_url': 'https://duendeinexistente.neocities.org/sigal/_build/feed.rss', 'nb_items': 40}
-atom_feed = {'feed_url': 'https://duendeinexistente.neocities.org/sigal/_build/feed.atom', 'nb_items': 40}
+rss_feed = {'feed_url': 'http://www.duendeinexistente.com/sigal/_build/feed.rss', 'nb_items': 40}
+atom_feed = {'feed_url': 'http://www.duendeinexistente.com/sigal/_build/feed.atom', 'nb_items': 40}
