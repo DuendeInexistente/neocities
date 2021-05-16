@@ -38,9 +38,13 @@
           </a>
           <figcaption itemprop="caption description">{{ media.title }} - {{ media.exif.datetime }}
 
+         <a href="{{ media.url}}" class="gallery"
+          title="{{ media.title }}"
+          data-href="{{ media.url }}" >[Download file]</a>
+
           <a href="{{ media.url}}.html" class="gallery colorshift fastshift"
           title="{{ media.title }}"
-          data-href="{{ media.url }}" >Leave a comment!</a>
+          data-href="{{ media.url }}" >[Leave a comment!]</a>
           
           </figcaption>
         </figure>

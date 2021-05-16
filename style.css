@@ -344,3 +344,47 @@ height:70%
   z-index: 105;
   max-width:1050px;
 }
+
+
+
+.spinner {
+  animation-name: spin;
+  animation-duration: 3500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+  /* transform: rotate(3deg); */
+   /* transform: rotate(0.3rad);/ */
+   /* transform: rotate(3grad); */ 
+   /* transform: rotate(.03turn);  */
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+
+.colorshift {
+  animation-name: hue;
+  animation-duration: 3500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+}
+
+@keyframes hue {
+    from {
+        filter: hue-rotate(0deg);
+    }
+    to {
+        filter: hue-rotate(360deg);
+    }
+}
+
+
+.fastshift {
+  animation-duration: 900ms;
+}
