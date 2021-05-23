@@ -49,6 +49,8 @@ height: auto !important;
 
 
 
+
+
 h3 {
     font-weight: bold !important;
 }
@@ -157,3 +159,26 @@ h2, h3, h4, h5, h6 {
     float: left;
 }
 
+
+
+
+ .bg {
+    border-image: none;
+    border-color: #9c0000;
+    border-width: 1px;
+    background: #151414;
+}
+
+.thumbnail img {
+    border-image: none;
+    border-color: #682867;
+    border-width: 1px;
+}
+
+ .vid { border-color:#828200;}
+
+
+body {    
+background: #1C1C1C;
+background-image:none; 
+}

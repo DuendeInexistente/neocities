@@ -50,7 +50,7 @@
         </figure>
       {% endif %}
       {% if media.type == "video" %}
-        <figure class="gallery__img--secondary thumbnail"
+        <figure class="gallery__img--secondary thumbnail frame smallframe bg vid"
                 itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"  style="width: fit-content;">
           <a href="{{ media.url }}" itemprop="contentUrl" data-type="video"
              data-video='<div class="video"><div class="video__container"><video controls><source src="{{ media.url }}" type="{{ media.mime }}" /></video></div></div>'>
