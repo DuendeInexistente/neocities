@@ -160,13 +160,17 @@ h2, h3, h4, h5, h6 {
 }
 
 
-
+ .bg {
+    margin:2px;
+}
 /*
  .bg {
     border-image: none;
     border-color: #9c0000;
     border-width: 1px;
     background: #151414;
+    margin:2px;
+    padding: 5px;
 }
 
 .thumbnail img {
