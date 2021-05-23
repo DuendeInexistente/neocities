@@ -285,6 +285,14 @@ border: 12pt solid transparent;
   grid-auto-rows: auto;
 }
 
+.flex {
+
+    display: inline-flex;
+    gap: 5px;
+    grid-auto-rows: 3;
+    flex-wrap: wrap;
+
+}
 
 .widegrid {
 display: grid !important;

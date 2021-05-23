@@ -13,7 +13,7 @@
 
 # Source directory. Can be set here or as the first argument of the `sigal
 # build` command
-source = 'images'
+source = 'src'
 
 # Destination directory. Can be set here or as the second argument of the
 # `sigal build` command (default: '_build')
@@ -38,7 +38,7 @@ use_orig = "true"
 
 # Path to a CSS file that can be used to customize themes
 # user_css =
-user_css = './camm.css'
+user_css = './cammy.css'
 # ----------------
 # Image processing (ignored if use_orig = True)
 # ----------------
@@ -105,12 +105,12 @@ img_size = (800, 600)
 thumb_size = (280, 210)
 
 # Crop the image to fill the box
-# thumb_fit = True
+thumb_fit = False
 
 # When using thumb_fit, specifies what we should crop
 # for usage see
 # http://pillow.readthedocs.io/en/stable/reference/ImageOps.html#PIL.ImageOps.fit
-# thumb_fit_centering = (0.5, 0.5)
+thumb_fit_centering = (0.0, 0.0)
 
 # Delay in seconds to avoid black thumbnails in videos with fade-in
 # thumb_video_delay = '0'
@@ -236,8 +236,8 @@ ignore_files = []
 # A symbolic link is used if ``orig_link`` is set to True (see above).
 # files_to_copy = (('extra/robots.txt', 'robots.txt'),
 #                  ('extra/favicon.ico', 'favicon.ico'),)
-files_to_copy = (('frame.png', 'static/frame.png'),
-		('Background.png', 'static/Background.png'))
+#files_to_copy = (('frame.png', 'static/frame.png'),
+#		('Background.png', 'static/Background.png'))
 
 # Colorbox theme config
 # The column size is given in number of column of the css grid of the Skeleton

@@ -26,39 +26,49 @@
   </div>
   {% endif %}
 
-  <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  <div class="gallery flex"  itemscope itemtype="http://schema.org/ImageGallery">
     {% for media in album.medias %}
       {% if media.type == "image" %}
-        <figure class="gallery__img--{{ "main" if loop.first else "secondary" }} thumbnail"
-                itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-          <a href="{{ media.url }}" itemprop="contentUrl" data-size="{{media.size.width}}x{{media.size.height}}">
+        <figure class="gallery__img--secondary thumbnail frame smallframe bg" 
+    itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"  style="width: fit-content;">
+          <a href="{{ media.url }}"  itemprop="contentUrl" data-size="{{media.size.width}}x{{media.size.height}}">
             <img src="{{ theme.url }}/echo/blank.gif"
                  data-echo="{{ media.url if loop.first else media.thumbnail }}"
                  alt="{{ media.url }}" itemprop="thumbnail" title="{{ media.exif.datetime }}" />
           </a>
-          <figcaption itemprop="caption description">{{ media.title }} - {{ media.exif.datetime }}
+          <p itemprop="caption description">{{ media.title }} - {{ media.exif.datetime }}
 
          <a href="{{ media.url}}" class="gallery"
           title="{{ media.title }}"
-          data-href="{{ media.url }}" >[Download file]</a>
+          data-href="{{ media.url }}" ><br>[Download file]</a>
 
           <a href="{{ media.url}}.html" class="gallery colorshift fastshift"
           title="{{ media.title }}"
           data-href="{{ media.url }}" >[Leave a comment!]</a>
           
-          </figcaption>
+          </p>
         </figure>
       {% endif %}
       {% if media.type == "video" %}
         <figure class="gallery__img--secondary thumbnail"
-                itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+                itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"  style="width: fit-content;">
           <a href="{{ media.url }}" itemprop="contentUrl" data-type="video"
              data-video='<div class="video"><div class="video__container"><video controls><source src="{{ media.url }}" type="{{ media.mime }}" /></video></div></div>'>
           <img src="{{ theme.url }}/echo/blank.gif"
                data-echo="{{ media.thumbnail }}"
                alt="{{ media.thumbnail }}" itemprop="thumbnail" title="" />
           </a>
-          <figcaption itemprop="caption description">{{ media_title }}</figcaption>
+          <p itemprop="caption description">{{ media.title }}
+
+         <a href="{{ media.url}}" class="gallery"
+          title="{{ media.title }}"
+          data-href="{{ media.url }}" ><br>[Download file]</a>
+
+          <a href="{{ media.url}}.html" class="gallery colorshift fastshift"
+          title="{{ media.title }}"
+          data-href="{{ media.url }}" >[Leave a comment!]</a>
+          
+          </p>
         </figure>
       {% endif %}
     {% endfor %}
