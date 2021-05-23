@@ -71,7 +71,7 @@ strong {
 }
 
 figcaption {
-  display:none;
+  display:block;
 }
 
 .container {
