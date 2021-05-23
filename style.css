@@ -1,17 +1,17 @@
 @font-face {
   font-family: '36 days ago BRK';
-  src: url('fonts/36 days ago/36 days ago BRK.eot');
-  src: url('fonts/36 days ago/36 days ago BRK.eot?#iefix') format('embedded-opentype'),
-       url('fonts/36 days ago/36 days ago BRK.woff2') format('woff2');
+  src: url('/fonts/36 days ago/36 days ago BRK.eot');
+  src: url('/fonts/36 days ago/36 days ago BRK.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/36 days ago/36 days ago BRK.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: '36daysagoBRK';
-  src: url('fonts/36 days ago/36daysagoBRK.svg#36daysagoBRK') format('svg'),
-       url('fonts/36 days ago/36daysagoBRK.ttf') format('truetype'),
-       url('fonts/36 days ago/36daysagoBRK.woff') format('woff');
+  src: url('/fonts/36 days ago/36daysagoBRK.svg#36daysagoBRK') format('svg'),
+       url('/fonts/36 days ago/36daysagoBRK.ttf') format('truetype'),
+       url('/fonts/36 days ago/36daysagoBRK.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }

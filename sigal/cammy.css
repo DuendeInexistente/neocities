@@ -5,14 +5,14 @@
 
 .album_thumb {
     border: 8pt solid transparent;
-    border-image: url(../../../frames/framecp.png) round;
+    border-image: url(/frames/framecp.png) round;
     border-image-slice: 30% fill;
 }
 
 
 .thumbnail img {
     border: 8pt solid transparent;
-    border-image: url(../../../frames/framecp.png) round;
+    border-image: url(/frames/framecp.png) round;
     border-image-slice: 30% fill;
     box-shadow: none;
 }
@@ -22,7 +22,7 @@
     border: 8pt solid transparent !important;
     border-image-slice: 30% fill !important;
     box-shadow: none;
-border-image: url(../../../frames/framefolder.png) round !important;
+border-image: url(/frames/framefolder.png) round !important;
 }*/
 
 
