@@ -108,7 +108,7 @@ header h1 a:hover, header h2 a:hover {
 .album_title {
   display: block;
   color: #eeeeee;
-  font-size: 1.3em;
+/*  font-size: 1.3em;*/
   font-variant: small-caps;
   font-weight: bold;
 }
