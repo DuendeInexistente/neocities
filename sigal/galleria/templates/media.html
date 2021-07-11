@@ -23,6 +23,17 @@
 .notinmedia { display:none; }
 </style>
 
+
+
+<meta property="og:image" content="{{ media.url }}">
+<meta property="og:title" content="{{ media.title }}" />
+<meta property="og:type" content="website" />
+<!--<meta property="og:description" content="Leave a comment at <a href="{{ media.url }}.html">{{ media.url }}</a>, or browser <a href="{{ media.url }}/..">other images like it</a>
+
+
+" />-->
+<meta property="og:url" content="{{ media.url }}.html" />
+
   </header>
 
   {% if media %}
