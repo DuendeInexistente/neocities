@@ -160,6 +160,7 @@ ignore_files = []
 
 # File extensions that should be treated as video files
 # video_extensions = ['.mov', '.avi', '.mp4', '.webm', '.ogv', '.3gp']
+video_extensions = []
 
 # Video format
 # specify an alternative format, valid are 'webm' (default) and 'mp4'
