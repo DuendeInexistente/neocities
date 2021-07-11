@@ -307,3 +307,8 @@ footer span:not(:last-child):after {
 .menu a, .menu a:link, .menu a:visited {
     color:white;
 }
+
+
+.menu {
+    float:left;
+}
