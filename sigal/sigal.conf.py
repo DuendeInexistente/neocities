@@ -274,6 +274,7 @@ plugins = [
 #     'sigal.plugins.upload_s3',
 #     'sigal.plugins.watermark',
 #     'sigal.plugins.zip_gallery',
+      '153957_theme.full_menu',
 ]
 
 # Adjust the image after resizing it. A default value of 1.0 leaves the images
