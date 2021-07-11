@@ -22,10 +22,10 @@ source = 'src'
 # Theme :
 # - colorbox (default), galleria, photoswipe, or the path to a custom theme
 # directory
-theme = './photoswipe'
+theme = './galleria'
 
 # Theme for galleria (https://galleriajs.github.io/themes/)
-# galleria_theme = 'classic'
+galleria_theme = 'folio'
 
 # Author. Used in the footer of the pages and in the author meta tag.
 author = '@Dinexistente'
@@ -38,7 +38,7 @@ use_orig = "true"
 
 # Path to a CSS file that can be used to customize themes
 # user_css =
-user_css = './cammy.css'
+#user_css = './cammy.css'
 # ----------------
 # Image processing (ignored if use_orig = True)
 # ----------------
@@ -48,6 +48,7 @@ img_size = (800, 600)
 
 # Output format of images (default: None, i.e. use input format)
 # img_format = "JPEG"
+#img_format = "webp"
 
 # Show a map of the images where possible?
 # This option only has an effect on the galleria theme for the while.

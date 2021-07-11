@@ -194,3 +194,35 @@ footer span:not(:last-child):after {
     text-align: right;
   }
 }
+
+
+
+.icons img
+{width:16px; height:16px; display:block}
+
+#fullscreen { display:none;}
+
+.album_title::before {
+    background-image: url('dir_clos.webp');
+    background-size: 16px 16px;
+    display: inline-block;
+    width: 16px; 
+    height: 16px;
+    content:"";
+}
+
+.colorshift {
+  animation-name: hue;
+  animation-duration: 3500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+}
+
+@keyframes hue {
+    from {
+        filter: hue-rotate(0deg);
+    }
+    to {
+        filter: hue-rotate(360deg);
+    }
+}
