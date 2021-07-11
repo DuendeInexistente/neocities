@@ -301,3 +301,9 @@ footer span:not(:last-child):after {
     font-size: 16px;
   }
 }
+
+
+
+.menu a, .menu a:link, .menu a:visited {
+    color:white;
+}
