@@ -41,7 +41,7 @@
 
     {% for media in album.medias %}
       {% if media.type == "image" %}
-        <figure class="gallery__img--secondary thumbnail frame smallframe bg {{ media.url }} {{ album.path }} {{ album.path }}/{{ media.title }}" 
+        <figure class="gallery__img--secondary thumbnail frame smallframe bg {{ media.title }} {{ album.path }} {{ album.path }}/{{ media.title }}" 
     itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"  style="width: fit-content;">
           <a href="{{ media.url }}"  itemprop="contentUrl" data-size="{{media.size.width}}x{{media.size.height}}">
             <img src="{{ theme.url }}/echo/blank.gif"
@@ -62,7 +62,7 @@
         </figure>
       {% endif %}
       {% if media.type == "video" %}
-        <figure class="gallery__img--secondary thumbnail frame smallframe bg vid"
+        <figure class="gallery__img--secondary thumbnail frame smallframe bg vid {{ media.title }} {{ album.path }} {{ album.path }}/{{ media.title }}"
                 itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"  style="width: fit-content;">
           <a href="{{ media.url }}" itemprop="contentUrl" data-type="video"
              data-video='<div class="video"><div class="video__container"><video controls><source src="{{ media.url }}" type="{{ media.mime }}" /></video></div></div>'>
