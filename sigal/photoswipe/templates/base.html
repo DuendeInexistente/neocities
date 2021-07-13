@@ -22,11 +22,13 @@
       
 
       {% include 'links.html' %}
-
+            <div class="menu">
+          {% with albums=album.gallery.full_tree, depth=0 %}
+            {% include './menu.html' %}
+          {% endwith %}
+</div>
       <div class="content">
-        {% include 'breadcrumb.html' %}
         {% block content %}{% endblock %}
-
         {% if album.description %}
         <div id="description" class="row">
         {{ album.description }}

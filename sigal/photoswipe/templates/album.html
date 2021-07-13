@@ -23,13 +23,12 @@
           title="Download a zip archive with all images">Download ZIP</a></p>
   </div>
   {% endif %}
+  
+
+  
   <div class="gallery flex"  itemscope itemtype="http://schema.org/ImageGallery"> 
 
-          <div class="menu">
-          {% with albums=album.gallery.full_tree, depth=0 %}
-            {% include './menu.html' %}
-          {% endwith %}
-</div>
+
 
     {% for media in album.medias %}
       {% if media.type == "image" %}

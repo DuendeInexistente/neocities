@@ -113,7 +113,7 @@ figcaption {
 
 .thumbnail {
   text-align: center;
-  float:left;
+/*  float:left;*/
 }
 .thumbnail img {
   max-width: 85%;
@@ -414,7 +414,7 @@ h2, h3, h4, h5, h6 {
      max-width: unset;
     /* margin: 24px auto; */
     width: 100%;
-    float: left;
+/*    float: left;*/
 }
 
 
