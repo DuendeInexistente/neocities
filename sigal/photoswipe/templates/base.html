@@ -24,8 +24,14 @@
       {% include 'links.html' %}
 
 <div style="float:left; width:20%;">
+        <div style="font-variant:small-caps;">
+        <img src=/feed.png></img>
+        <a href="http://www.duendeinexistente.com/sigal/_build/feed.rss">RSS</a> /
+        <a href="http://www.duendeinexistente.com/sigal/_build/feed.atom">ATOM</a>
+        feeds.</div>
             <div class="menu">
-              	<li ><a href="http://www.duendeinexistente.com/">Return to homepage</a>
+
+        <li><a href="http://www.duendeinexistente.com/">Return to homepage</a></li>
   	<li><a href="{{album.path_to_root}}">Root</a><ul></li>
           {% with albums=album.gallery.full_tree, depth=0 %}
             {% include './menu.html' %}

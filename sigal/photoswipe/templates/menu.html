@@ -21,8 +21,9 @@
           {% if current_ancestor %}
             {% with albums=album_dict.subalbums, depth=depth+1 %}
               {% include './menu.html' %}
+             
             {% endwith %}
-</ul>
+
           {% endif %}
       {% endwith %}
     {% endfor %}
