@@ -10,8 +10,9 @@
       {% endfor %}
     {% endif %}
   >
-        <li >
-          <a href="{{album.path_to_root}}">Root</a><ul>
+
+        
+          
 
     {% for name, album_dict in albums.items() %}
       {% with current_ancestor=(album.breadcrumb|length and depth < album.breadcrumb|length and album_dict.self.title == album.breadcrumb[depth][1]) %}

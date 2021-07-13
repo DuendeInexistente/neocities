@@ -459,6 +459,34 @@ p {display:none;}
 }
 
 
+
+.colorshift {
+  animation-name: hue;
+  animation-duration: 3500ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+}
+
+@keyframes hue {
+    from {
+        filter: hue-rotate(0deg);
+    }
+    to {
+        filter: hue-rotate(360deg);
+    }
+}
+
+.love {
+    width:20%;
+}
+
+.shid {
+	width:50%;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
+}
+
+
 ----------------------------------
 
 Menu
@@ -545,7 +573,7 @@ Menu
 
 
 .menu {
-    float:left;
+/*    float:left;*/
     font-variant:small-caps;
 }
 
@@ -558,3 +586,7 @@ ul, ol {
     padding: 0;
     margin: 0 0 8px 2px;
 }
+
+
+::marker { content:none; }
+

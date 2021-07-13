@@ -25,10 +25,16 @@
 
 <div style="float:left; width:20%;">
             <div class="menu">
+              	<li ><a href="http://www.duendeinexistente.com/">Return to homepage</a>
+  	<li><a href="{{album.path_to_root}}">Root</a><ul></li>
           {% with albums=album.gallery.full_tree, depth=0 %}
             {% include './menu.html' %}
           {% endwith %}
 	   </div>
+	   
+	   <img class="love colorshift" src="/tenorrgb.gif">
+	   <img class="shid" src="/liddle shid bi.gif">
+	   <img class="love colorshift" src="/tenorrgb.gif">
 </div>
 
 <div style="float:right; width:79%;">
