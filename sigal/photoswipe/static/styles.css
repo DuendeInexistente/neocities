@@ -566,6 +566,20 @@ Menu
 }
 
 
+-----
+
+.\@References,
+.My.art\/\@References
+{
+    display:none;
+}
+
+.\30 6.\31 0.\31 0.lwd img {
+    display:none;
+}
+
+-----
+
 
 .menu a, .menu a:link, .menu a:visited {
     color:white;
