@@ -552,3 +552,9 @@ Menu
 
 .menu li > a:not(:only-child):before { content: url('dir_open.webp'); }
 .menu li > a:only-child:before { content: url('dir_clos.webp'); }
+
+
+ul, ol {
+    padding: 0;
+    margin: 0 0 8px 2px;
+}
