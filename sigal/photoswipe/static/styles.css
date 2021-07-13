@@ -1,3 +1,6 @@
+/*@import url("/style.css");*/
+
+
 html, body, div, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, ol, ul, li, form, fieldset, legend, label, table, header, footer, nav, section, figure {
   margin: 0;
   padding: 0;
@@ -233,3 +236,315 @@ footer span:not(:last-child):after {
     width: 100%;
   }
 }
+
+
+
+--------------------------------------------------------------
+
+
+
+Cammy
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+@import url("/fonts/karmen/stylesheet.css");
+
+
+
+.album_thumb {
+    border: 8pt solid transparent;
+    border-image: url(/frames/framecp.png) round;
+    border-image-slice: 30% fill;
+}
+
+
+.thumbnail img {
+    border: 8pt solid transparent;
+    border-image: url(/frames/framecp.png) round;
+    border-image-slice: 30% fill;
+    box-shadow: none;
+}
+
+
+/*.album_thumb { 
+    border: 8pt solid transparent !important;
+    border-image-slice: 30% fill !important;
+    box-shadow: none;
+border-image: url(/frames/framefolder.png) round !important;
+}*/
+
+
+body {
+    background-image: url("Background.png");
+    background-color: none;
+    color: white;
+}
+
+h1 a {
+    color: white;
+}
+
+nooopeimg {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+}
+
+
+display: block;
+width: 100% !important;
+max-height :100% !important;
+height: auto !important;
+
+
+
+
+
+h3 {
+    font-weight: bold !important;
+}
+
+
+
+
+.thumbnail img:hover {
+    box-shadow: none;
+}
+
+.album-list {
+    background: none;
+}
+
+/*
+html,
+body,
+div,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+ol,
+ul,
+li,
+form,
+fieldset,
+legend,
+label,
+table,
+header,
+footer,
+nav,
+section,
+figure {
+    margin: 1px;
+}*/
+
+#HCB_comment_box {
+    color: white;
+    max-width: 80%;
+}
+
+
+a {
+    color: #84abe6;
+}
+
+
+
+element {
+
+}
+a:hover {
+
+    color: #C00;
+
+}
+a {
+
+    color: #84abe6;
+
+}
+a {
+
+    color: #81b7ff;
+
+}
+
+h2, h3, h4, h5, h6 {
+
+    font-family: "Karmen bold";
+}
+
+
+   .centra { text-align: center; }
+   
+   
+ /*  figcaption {
+    display: block;
+}*/
+
+
+.gallery {
+   float: none;
+}
+
+
+.pswp__caption__center {
+    font-weight: bold;
+    font-size: large;
+}
+
+
+.content {
+     max-width: unset;
+    /* margin: 24px auto; */
+    width: 100%;
+    float: left;
+}
+
+
+ .bg {
+    margin:2px;
+}
+
+ .bg {
+    border-image: none;
+    border-color: #9c0000;
+    border-width: 1px;
+    background: #151414;
+    margin:2px;
+    padding: 5px;
+}
+
+.thumbnail img {
+    border-image: none;
+    border-color: #682867;
+    border-width: 1px;
+}
+
+ .vid { border-color:#828200;}
+
+
+body {    
+background: #1C1C1C;
+background-image:none; 
+}
+
+
+p {display:none;}
+
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    place-items: flex-start;
+    flex-wrap: wrap;
+    align-content: stretch;
+    align-items: stretch;
+}
+
+
+----------------------------------
+
+Menu
+
+-----------------------------------
+
+
+
+/* albums menu */
+
+.menu {
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 1.4;
+  display: table !important;
+  margin-left: 5px;
+  flex-direction: column;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+
+.menu ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.menu ul ul {
+  padding-left: 14px;
+}
+
+.menu ul ul ul ul ul {
+  font-size: 12px;
+}
+
+.menu a,
+.menu a:link,
+.menu a:visited {
+  text-decoration: none;
+  display: block;
+  color: #333;
+}
+
+.menu a:hover,
+.menu .current > a {
+  color: #3993C2;
+}
+
+.menu .title {
+  font-size: 12px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+@media (pointer: coarse) {
+  .menu {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+
+  .menu li {
+    display: none;
+  }
+
+  .menu li.current > ul > li, /* children */
+  .menu ul.current_siblings > li, /* siblings and self */
+  .menu li.current_ancestor { /* ancestors */
+    display: list-item;
+  }
+
+  .menu ul ul ul ul ul {
+    font-size: 18px;
+  }
+
+  .menu .title {
+    font-size: 16px;
+  }
+}
+
+
+
+.menu a, .menu a:link, .menu a:visited {
+    color:white;
+}
+
+
+.menu {
+    float:left;
+}
+

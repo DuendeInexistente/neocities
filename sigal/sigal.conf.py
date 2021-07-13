@@ -22,10 +22,11 @@ source = 'src2'
 # Theme :
 # - colorbox (default), galleria, photoswipe, or the path to a custom theme
 # directory
-theme = './galleria'
+#theme = './galleria'
+theme = './photoswipe'
 
 # Theme for galleria (https://galleriajs.github.io/themes/)
-galleria_theme = 'folio'
+#galleria_theme = 'folio'
 
 # Author. Used in the footer of the pages and in the author meta tag.
 author = '@Dinexistente'
@@ -160,7 +161,7 @@ ignore_files = []
 
 # File extensions that should be treated as video files
 # video_extensions = ['.mov', '.avi', '.mp4', '.webm', '.ogv', '.3gp']
-video_extensions = []
+#video_extensions = []
 
 # Video format
 # specify an alternative format, valid are 'webm' (default) and 'mp4'

@@ -1,0 +1,190 @@
+@import url("/fonts/karmen/stylesheet.css");
+
+
+
+.album_thumb {
+    border: 8pt solid transparent;
+    border-image: url(/frames/framecp.png) round;
+    border-image-slice: 30% fill;
+}
+
+
+.thumbnail img {
+    border: 8pt solid transparent;
+    border-image: url(/frames/framecp.png) round;
+    border-image-slice: 30% fill;
+    box-shadow: none;
+}
+
+
+/*.album_thumb { 
+    border: 8pt solid transparent !important;
+    border-image-slice: 30% fill !important;
+    box-shadow: none;
+border-image: url(/frames/framefolder.png) round !important;
+}*/
+
+
+body {
+    background-image: url("Background.png");
+    background-color: none;
+    color: white;
+}
+
+h1 a {
+    color: white;
+}
+
+nooopeimg {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+}
+
+
+display: block;
+width: 100% !important;
+max-height :100% !important;
+height: auto !important;
+
+
+
+
+
+h3 {
+    font-weight: bold !important;
+}
+
+
+
+
+.thumbnail img:hover {
+    box-shadow: none;
+}
+
+.album-list {
+    background: none;
+}
+
+/*
+html,
+body,
+div,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+ol,
+ul,
+li,
+form,
+fieldset,
+legend,
+label,
+table,
+header,
+footer,
+nav,
+section,
+figure {
+    margin: 1px;
+}*/
+
+#HCB_comment_box {
+    color: white;
+    max-width: 80%;
+}
+
+
+a {
+    color: #84abe6;
+}
+
+
+
+element {
+
+}
+a:hover {
+
+    color: #C00;
+
+}
+a {
+
+    color: #84abe6;
+
+}
+a {
+
+    color: #81b7ff;
+
+}
+
+h2, h3, h4, h5, h6 {
+
+    font-family: "Karmen bold";
+}
+
+
+   .centra { text-align: center; }
+   
+   
+ /*  figcaption {
+    display: block;
+}*/
+
+
+.gallery {
+   float: none;
+}
+
+
+.pswp__caption__center {
+    font-weight: bold;
+    font-size: large;
+}
+
+
+.content {
+     max-width: unset;
+    /* margin: 24px auto; */
+    width: 100%;
+    float: left;
+}
+
+
+ .bg {
+    margin:2px;
+}
+
+ .bg {
+    border-image: none;
+    border-color: #9c0000;
+    border-width: 1px;
+    background: #151414;
+    margin:2px;
+    padding: 5px;
+}
+
+.thumbnail img {
+    border-image: none;
+    border-color: #682867;
+    border-width: 1px;
+}
+
+ .vid { border-color:#828200;}
+
+
+body {    
+background: #1C1C1C;
+background-image:none; 
+}
+
+
+/*p {display:none;}
