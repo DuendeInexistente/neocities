@@ -1,0 +1,9 @@
+  {% for alb in album.albums %}
+    <div class="thumbnail frame smallframe bg {{ album.url }} {{ album.path }} {{ alb.title }}">
+      <a href="{{ alb.url }}">
+        <img src="{{ alb.thumbnail }}" class="album_thumb"/>
+      
+      <span class="album_title">{{ alb.title }}</span></a>
+    </div>
+  {% endfor %}
+
