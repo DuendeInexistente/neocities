@@ -569,12 +569,10 @@ Menu
 
 .\@References,
 .My.art\/\@References,
-.Medibang
+.\@References.art,
+.Medibang,
+.\30 6.\31 0.\31 0.lwd img
 {
-    display:none;
-}
-
-.\30 6.\31 0.\31 0.lwd img {
     display:none;
 }
 
