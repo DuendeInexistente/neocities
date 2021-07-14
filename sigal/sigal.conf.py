@@ -13,7 +13,7 @@
 
 # Source directory. Can be set here or as the first argument of the `sigal
 # build` command
-source = 'src2'
+source = 'git'
 
 # Destination directory. Can be set here or as the second argument of the
 # `sigal build` command (default: '_build')
