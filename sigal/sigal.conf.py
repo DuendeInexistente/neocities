@@ -279,6 +279,8 @@ plugins = [
       '153957_theme.full_menu',
 ]
 
+
+
 # Adjust the image after resizing it. A default value of 1.0 leaves the images
 # untouched.
 # adjust_options = {'color': 1.0,
