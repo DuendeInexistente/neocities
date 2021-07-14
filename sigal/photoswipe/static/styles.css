@@ -446,8 +446,7 @@ background-image:none;
 }
 
 
-p {display:none;}
-
+figure > p { display:none; }
 
 .flex {
     display: flex;
