@@ -8,3 +8,4 @@ sigal/images
 sigal/git
 sigal/nojs/_build
 sigal/git/
+*/_build
