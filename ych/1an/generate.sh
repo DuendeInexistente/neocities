@@ -49,7 +49,7 @@ repeat 10 local whosasillypony=${whosasillypony/\ \ /\ }
 repeat 10 local whosasillypony=${whosasillypony/.gif/}
 repeat 10 local whosasillypony=${whosasillypony/.png/}
 
-echo '<div class="frame smallframe bg">' >> $thecutest.html
+echo '<div class="frame smallframe bg green">' >> $thecutest.html
 echo '<img class="pixels max100" src="'$file'"><br><img class="pixels scale400" src="'$file'">' >> $thecutest.html
 
 echo '<br>' ${(C)whosasillypony} >> $thecutest.html
