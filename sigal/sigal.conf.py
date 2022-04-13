@@ -13,7 +13,7 @@
 
 # Source directory. Can be set here or as the first argument of the `sigal
 # build` command
-source = 'git'
+source = 'git/My art'
 
 # Destination directory. Can be set here or as the second argument of the
 # `sigal build` command (default: '_build')
@@ -319,5 +319,5 @@ zip_media_format = 'orig'  # 'resized' or 'orig'
 # already present. Warning: new photos in an album won't be added to archive
 
 
-rss_feed = {'feed_url': 'http://www.duendeinexistente.com/sigal/_build/feed.rss', 'nb_items': 40}
-atom_feed = {'feed_url': 'http://www.duendeinexistente.com/sigal/_build/feed.atom', 'nb_items': 40}
+rss_feed = {'feed_url': 'http://www.duendeinexistente.com/gl/feed.rss', 'nb_items': 40}
+atom_feed = {'feed_url': 'http://www.duendeinexistente.com/gl/feed.atom', 'nb_items': 40}
