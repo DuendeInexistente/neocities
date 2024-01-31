@@ -120,7 +120,7 @@ div.gallery_item {
     display: inline-block;
     text-align: center;
     width: 90%;
-    max-height:300pt;
+    //max-height:300pt;
     z-index: 100;
     position:relative;
     border-image: url(framecp.png) round;
