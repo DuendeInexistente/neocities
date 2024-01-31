@@ -116,11 +116,11 @@ div.item {
 
 }
 div.gallery_item {
-    vertical-align: top;
+    vertical-align: bottom;
     display: inline-block;
     text-align: center;
     width: 90%;
-    height:300pt
+    max-height:300pt;
     z-index: 100;
     position:relative;
     border-image: url(framecp.png) round;
@@ -140,7 +140,12 @@ div.gallery_item {
   justify-content: center;
   align-items:center;
     z-index: 100;
+    height 250pt
     position:relative;
+}
+
+.gllimg>img {
+    object-fit: contain;
 }
 
 
