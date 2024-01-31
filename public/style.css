@@ -153,6 +153,8 @@ div.gallery_item {
     z-index: 100;
     position:relative;
     text-align:justify;
+    font-family:tahoma;
+    font-weight:normal;
 }
 
 
@@ -385,10 +387,10 @@ height:70%
 
 @keyframes hue {
     from {
-        filter: hue-rotate(0deg);
+        filter: sepia(1) saturate(2.5) hue-rotate(0deg);
     }
     to {
-        filter: hue-rotate(360deg);
+        filter: sepia(1) saturate(1.5) hue-rotate(360deg);
     }
 }
 
