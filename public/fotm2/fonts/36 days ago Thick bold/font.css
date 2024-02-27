@@ -1,0 +1,18 @@
+@font-face {
+  font-family: '36 days ago Thick BRK';
+  src: url('36 days ago Thick BRK.eot');
+  src: url('36 days ago Thick BRK.eot?#iefix') format('embedded-opentype'),
+       url('36 days ago Thick BRK.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: '36daysagoThickBRK';
+  src: url('36daysagoThickBRK.svg#36daysagoThickBRK') format('svg'),
+       url('36daysagoThickBRK.ttf') format('truetype'),
+       url('36daysagoThickBRK.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

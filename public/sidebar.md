@@ -1,6 +1,5 @@
 ### Subpages:
 
- - [Art gallery](sigal) My art gallery. Most of the stuff I've ever made.
 
  - [/mlp/s flags](flags) Flags made by /mlp/ in expectation of the board flags.
 
