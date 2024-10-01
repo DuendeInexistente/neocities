@@ -1,7 +1,7 @@
 name: learn-github-actions
 on: [push]
 
-  group: deploy-to-neocities
+  group: deploy-to-neocities2
   cancel-in-progress: true
 jobs:
   check-bats-version:
